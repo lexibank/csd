@@ -23,6 +23,8 @@ class Dataset(clld.CLLD):
             concept_map[concept['GLOSS']] = concept['CONCEPTICON_ID']
 
         with self.cldf as ds:
+            for bib in sorted(self.raw.glob('*.bib'), key=lambda p: int(p.stem.split('-')[-1])):
+                ds.add_sources(*self.raw.read_bib(bib.name))
             ds.add_languages(id_factory=lambda l: l['ID'])
             for row in self.iteritems():
                 #for ref in row.refs:

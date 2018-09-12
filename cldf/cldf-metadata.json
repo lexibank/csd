@@ -5,6 +5,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "http://csd.clld.org",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:source": "sources.bib",
     "dc:title": "Comparative Siouan Dictionary",
     "dcat:accessURL": "https://github.com/lexibank/csd",
     "rdf:ID": "csd",
