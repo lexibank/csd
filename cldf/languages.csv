@@ -1,37 +1,37 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family
-mo,Missouria,miss1249,,,,
-pma,Pre-Mandan,,,,,
-pbo,Proto-Biloxi-Ofo,bilo1247,,,,
-pca,Proto-Catawba,cata1285,Catawban,,,
-pch,Proto-Crow-Hidatsa,miss1252,,,,
-pda,Proto-Dakota,dako1257,,,,
-pdh,Proto-Dhegiha,dheg1241,,,,
-pwc,Proto-Hoocąk-Chiwere,winn1245,,,,
-pmv,Proto-Mississipi-Valley,miss1254,,,,
-psi,Proto-Siouan,core1249,,sio,,
-psc,Proto-Siouan-Catawba,siou1252,,,,
-pse,Proto-Southeastern,sout2988,,,,
-sv,Sioux Valley,dako1258,,,,
-cr,Crow,crow1244,,cro,,
-hi,Hidatsa,hida1246,,hid,,
-ma,Mandan,mand1446,,mhq,,
-of,Ofo,ofoo1242,,ofo,,
-ca,Catawba,cata1286,,chc,,
-ch,Chiwere,iowa1245,,iow,,
-op,Omaha-Ponca,omah1247,,oma,,
-ks,Kanza/Kaw,kans1243,,ksk,,
-os,Osage,osag1243,,osa,,
-qu,Quapaw,quap1242,,qua,,
-tu,Tutelo,tute1247,,tta,,
-wi,Hoocąk,hoch1243,,win,,
-la,Lakota,lako1247,,lkt,,
-da,Dakota,dako1258,,dak,,
-bi,Biloxi,bilo1248,,bll,,
-ot,Otoe,iowa1245,,iow,,
-st,Stoney,ston1242,,sto,,
-sp,Saponi,tute1247,,tta,,
-wo,Woccon,wocc1242,,xwc,,
-om,Omaha,omah1247,,oma,,
-pn,Ponca,omah1247,,oma,,
-ya,Yanktonai,dako1258,,dak,,
-as,Assiniboine,assi1247,,asb,,
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
+mo,Missouria,miss1249,,,North America,,,Siouan
+pma,Pre-Mandan,,,,,,,
+pbo,Proto-Biloxi-Ofo,bilo1247,,,,,,
+pca,Proto-Catawba,cata1285,Catawban,,,,,Siouan
+pch,Proto-Crow-Hidatsa,miss1252,,,,,,Siouan
+pda,Proto-Dakota,dako1257,,,,,,Siouan
+pdh,Proto-Dhegiha,dheg1241,,,,,,Siouan
+pwc,Proto-Hoocąk-Chiwere,winn1245,,,,,,Siouan
+pmv,Proto-Mississipi-Valley,miss1254,,,,,,Siouan
+psi,Proto-Siouan,core1249,,sio,,,,Siouan
+psc,Proto-Siouan-Catawba,siou1252,,,,,,Siouan
+pse,Proto-Southeastern,sout2988,,,,,,Siouan
+sv,Sioux Valley,dako1258,,,North America,47.6857,-102.12,Siouan
+cr,Crow,crow1244,,cro,North America,45.368,-107.874,Siouan
+hi,Hidatsa,hida1246,,hid,North America,47.7534,-102.528,Siouan
+ma,Mandan,mand1446,,mhq,North America,47.6631,-102.376,Siouan
+of,Ofo,ofoo1242,,ofo,North America,30.43,-91.75,Siouan
+ca,Catawba,cata1286,,chc,North America,34.9685,-80.8857,Siouan
+ch,Chiwere,iowa1245,,iow,North America,40.0511,-95.5213,Siouan
+op,Omaha-Ponca,omah1247,,oma,North America,42.0944,-96.5295,Siouan
+ks,Kanza/Kaw,kans1243,,ksk,North America,36.8044,-96.8571,Siouan
+os,Osage,osag1243,,osa,North America,36.7828,-96.2949,Siouan
+qu,Quapaw,quap1242,,qua,North America,36.9471,-94.6634,Siouan
+tu,Tutelo,tute1247,,tta,North America,37.67,-78.75,Siouan
+wi,Hoocąk,hoch1243,,win,North America,43.5,-88.5,Siouan
+la,Lakota,lako1247,,lkt,North America,46.3699,-103.95,Siouan
+da,Dakota,dako1258,,dak,North America,47.6857,-102.12,Siouan
+bi,Biloxi,bilo1248,,bll,North America,31.32,-89.1951,Siouan
+ot,Otoe,iowa1245,,iow,North America,40.0511,-95.5213,Siouan
+st,Stoney,ston1242,,sto,North America,51.1939,-114.984,Siouan
+sp,Saponi,tute1247,,tta,North America,37.67,-78.75,Siouan
+wo,Woccon,wocc1242,,xwc,North America,35.379075,-77.985987,Siouan
+om,Omaha,omah1247,,oma,North America,42.0944,-96.5295,Siouan
+pn,Ponca,omah1247,,oma,North America,42.0944,-96.5295,Siouan
+ya,Yanktonai,dako1258,,dak,North America,47.6857,-102.12,Siouan
+as,Assiniboine,assi1247,,asb,North America,49.2923,-106.068,Siouan

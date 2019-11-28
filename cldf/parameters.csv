@@ -469,7 +469,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 471,press,1913,PRESS
 472,precipitate,,
 473,prairie,,
-474,powder,,
+474,powder,3368,POWDER
 475,"pound, mortar",,
 476,pound,354,POUND
 477,"potato, ground nut",,
@@ -864,7 +864,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 870,"end, finish > last (1)",,
 871,"emphatic, contrastive, but",,
 872,emphatic topic,,
-873,elm,,
+873,elm,3317,ELM
 874,elk,1772,ELK
 875,"elbow (2), forearm",,
 876,elbow (1),,
@@ -1106,7 +1106,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1115,belly,1251,BELLY
 1116,belch,2245,BELCH
 1117,"behind, in back",,
-1118,beg,,
+1118,beg,3534,BEG
 1119,bee (2),,
 1120,bee (1),,
 1121,"bedding, covering",,

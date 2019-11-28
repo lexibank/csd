@@ -12,22 +12,18 @@ Available online at http://csd.clld.org
 
 
 [![Build Status](https://travis-ci.org/lexibank/csd.svg?branch=master)](https://travis-ci.org/lexibank/csd)
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
+![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-green.svg "Glottolog: 99%")
+![Concepticon: 20%](https://img.shields.io/badge/Concepticon-20%25-red.svg "Concepticon: 20%")
 ![Source: 67%](https://img.shields.io/badge/Source-67%25-orange.svg "Source: 67%")
 
 - **Varieties:** 36
 - **Concepts:** 1,193
-- **Lexemes:** 22,190
+- **Lexemes:** 22,200
+- **Sources:** 3,605
 - **Synonymy:** 1.49
-- **Cognacy:** 0 cognates in 0 cognate sets
-- **Invalid lexemes:** 0
-- **Tokens:** 0
-- **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
-- **Inventory size (avg):** 0.00
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 7425/22190 (33.46%)
+- Entries missing sources: 7427/22200 (33.45%)
