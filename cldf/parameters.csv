@@ -107,7 +107,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 108,turn (1) > roll,,
 109,"tree, wood",,
 110,"tree, bone, leg, stalk, stem, trunk",,
-111,travel,,
+111,travel,3665,TRAVEL
 112,trap,,
 113,trade,898,TRADE
 114,town (2),,
@@ -128,7 +128,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 129,thunder (2),,
 130,thunder (1),,
 131,throw dart,,
-132,throw away,,
+132,throw away,3696,THROW AWAY
 133,throat,1346,THROAT
 134,three,492,THREE
 135,"this, here, now (3)",,
@@ -326,7 +326,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 328,sister (2) mSiEl,,
 329,sister (1) mSiEl,,
 330,sink > drown,,
-331,singe,,
+331,singe,3698,SINGE
 332,sing,1261,SING
 333,sinew,,
 334,similitive,,
@@ -559,7 +559,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 561,mother (2) (vocative),,
 562,mother (1) (referential),,
 563,mosquito,1509,MOSQUITO
-564,mortar,,
+564,mortar,224,MORTAR
 565,"moon, sun, orb",,
 566,"moist, thaw, soft",,
 567,moist (2),,
@@ -594,7 +594,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 596,lungs,,
 597,love,923,LOVE
 598,louse,1392,LOUSE
-599,lost,,
+599,lost,3667,LOST
 600,"loose, knock loose",,
 601,loon,,
 602,"look into, peek",,
@@ -674,7 +674,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 677,how,1239,HOW
 678,"household, home",,
 679,"hot, warm",,
-680,hot weather,,
+680,hot weather,3693,HOT WEATHER
 681,"horn, spoon, shell",,
 682,horn,,
 683,hook,1071,HOOK
@@ -1127,7 +1127,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1136,ball joint > shoulder,,
 1137,ball,1845,BALL
 1138,"bag, sack, container",,
-1139,badger,,
+1139,badger,3717,BADGER
 1140,bad (2),,
 1141,bad (1),,
 1142,"back, returned",,

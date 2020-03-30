@@ -13,7 +13,7 @@ Available online at http://csd.clld.org
 
 [![Build Status](https://travis-ci.org/lexibank/csd.svg?branch=master)](https://travis-ci.org/lexibank/csd)
 ![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-green.svg "Glottolog: 99%")
-![Concepticon: 20%](https://img.shields.io/badge/Concepticon-20%25-red.svg "Concepticon: 20%")
+![Concepticon: 21%](https://img.shields.io/badge/Concepticon-21%25-red.svg "Concepticon: 21%")
 ![Source: 67%](https://img.shields.io/badge/Source-67%25-orange.svg "Source: 67%")
 
 - **Varieties:** 36
@@ -27,3 +27,10 @@ Available online at http://csd.clld.org
 
 
 - Entries missing sources: 7427/22200 (33.45%)
+
+# Contributors
+
+Name | GitHub user | Role
+ --- | --- | --- 
+Robert Forkel | @xrotwang | maintainer
+
