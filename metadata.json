@@ -3,5 +3,5 @@
     "aboutUrl": "http://csd.clld.org/values/{ID}",
     "citation": "Rankin, Robert L. & Carter, Richard T. & Jones, A. Wesley & Koontz, John E. & Rood, David S. & Hartmann, Iren (eds.) 2015. Comparative Siouan Dictionary. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at http://csd.clld.org)",
     "license": "http://creativecommons.org/licenses/by/4.0/",
-    "title": "Comparative Siouan Dictionary"
+    "title": "CLDF dataset derived from Rankin et al.'s \"Comparative Siouan Dictionary\" from 2015."
 }
