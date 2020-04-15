@@ -1,4 +1,4 @@
-# Comparative Siouan Dictionary
+# CLDF dataset derived from Rankin et al.'s "Comparative Siouan Dictionary" from 2015.
 
 Cite the source dataset as
 
@@ -30,7 +30,9 @@ Available online at http://csd.clld.org
 
 # Contributors
 
-Name | GitHub user | Role
- --- | --- | --- 
-Robert Forkel | @xrotwang | maintainer
+Name               | GitHub user  | Description                          | Role
+---                | ---          | ---                                  | ---
+Robert Forkel      | @xrotwang    | code                                 | Author
+Christoph Rzymski  | @chrzyki     | patron                               | Author
+
 
