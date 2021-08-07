@@ -1,0 +1,1205 @@
+pk,jsondata,id,name,description,markup_description,date,version
+1,{},1,"Entry ""yesterday (2)""",,,,1
+2,{},2,"Entry ""yesterday (1)""",,,,1
+3,{},3,"Entry ""yes (2)""",,,,1
+4,{},4,"Entry ""yes (1), to be so""",,,,1
+5,{},5,"Entry ""yellow > tawny""",,,,1
+6,{},6,"Entry ""yellow > brown""",,,,1
+7,{},7,"Entry ""yellow""",,,,1
+8,{},8,"Entry ""yawn""",,,,1
+9,{},9,"Entry ""wrist (2)""",,,,1
+10,{},10,"Entry ""wrist (1)""",,,,1
+11,{},11,"Entry ""wrinkle (3)""",,,,1
+12,{},12,"Entry ""wrinkle (2)""",,,,1
+13,{},13,"Entry ""wrinkle (1), ruffle""",,,,1
+14,{},14,"Entry ""wrap""",,,,1
+15,{},15,"Entry ""wound""",,,,1
+16,{},16,"Entry ""worm""",,,,1
+17,{},17,"Entry ""woodpecker""",,,,1
+18,{},18,"Entry ""within, inside""",,,,1
+19,{},19,"Entry ""with, instrument""",,,,1
+20,{},20,"Entry ""wise, smart, mature""",,,,1
+21,{},21,"Entry ""wipe, rub, scour""",,,,1
+22,{},22,"Entry ""wipe > rub, sweep""",,,,1
+23,{},23,"Entry ""winter""",,,,1
+24,{},24,"Entry ""wing (2)""",,,,1
+25,{},25,"Entry ""wing (1)""",,,,1
+26,{},26,"Entry ""wind (3)""",,,,1
+27,{},27,"Entry ""wind (2)""",,,,1
+28,{},28,"Entry ""wind (1)""",,,,1
+29,{},29,"Entry ""win""",,,,1
+30,{},30,"Entry ""wilt""",,,,1
+31,{},31,"Entry ""willow, Salix sp.""",,,,1
+32,{},32,"Entry ""will, purpose""",,,,1
+33,{},33,"Entry ""wild cat (2)""",,,,1
+34,{},34,"Entry ""wild cat (1)""",,,,1
+35,{},35,"Entry ""wife""",,,,1
+36,{},36,"Entry ""whoop""",,,,1
+37,{},37,"Entry ""who""",,,,1
+38,{},38,"Entry ""white man""",,,,1
+39,{},39,"Entry ""white (2)""",,,,1
+40,{},40,"Entry ""white (1)""",,,,1
+41,{},41,"Entry ""whistle (3)""",,,,1
+42,{},42,"Entry ""whistle (2)""",,,,1
+43,{},43,"Entry ""whistle (1), chirp""",,,,1
+44,{},44,"Entry ""whip""",,,,1
+45,{},45,"Entry ""when""",,,,1
+46,{},46,"Entry ""what size""",,,,1
+47,{},47,"Entry ""weigh""",,,,1
+48,{},48,"Entry ""weave (2)""",,,,1
+49,{},49,"Entry ""weave (1)""",,,,1
+50,{},50,"Entry ""wear pants, wear on legs""",,,,1
+51,{},51,"Entry ""wear on the feet""",,,,1
+52,{},52,"Entry ""wear around the neck""",,,,1
+53,{},53,"Entry ""wear about the shoulders""",,,,1
+54,{},54,"Entry ""weak""",,,,1
+55,{},55,"Entry ""water, liquid""",,,,1
+56,{},56,"Entry ""water""",,,,1
+57,{},57,"Entry ""wash""",,,,1
+58,{},58,"Entry ""warm (2)""",,,,1
+59,{},59,"Entry ""warm (1)""",,,,1
+60,{},60,"Entry ""war, warpath""",,,,1
+61,{},61,"Entry ""want (3)""",,,,1
+62,{},62,"Entry ""want (2)""",,,,1
+63,{},63,"Entry ""want (1)""",,,,1
+64,{},64,"Entry ""walnut""",,,,1
+65,{},65,"Entry ""walk (2)""",,,,1
+66,{},66,"Entry ""walk (1)""",,,,1
+67,{},67,"Entry ""wait for""",,,,1
+68,{},68,"Entry ""vomit""",,,,1
+69,{},69,"Entry ""voice (2), bellow, howl""",,,,1
+70,{},70,"Entry ""voice (1)""",,,,1
+71,{},71,"Entry ""visible""",,,,1
+72,{},72,"Entry ""vine""",,,,1
+73,{},73,"Entry ""vermin (6)""",,,,1
+74,{},74,"Entry ""vermin (5)""",,,,1
+75,{},75,"Entry ""vermin (4)""",,,,1
+76,{},76,"Entry ""vermin (3)""",,,,1
+77,{},77,"Entry ""vermin (2)""",,,,1
+78,{},78,"Entry ""vermin (1)""",,,,1
+79,{},79,"Entry ""vagina, vulva""",,,,1
+80,{},80,"Entry ""use, do with""",,,,1
+81,{},81,"Entry ""urine (2), urinate (2)""",,,,1
+82,{},82,"Entry ""urine (1), urinate (1)""",,,,1
+83,{},83,"Entry ""upstream, upwind""",,,,1
+84,{},84,"Entry ""upright, insert""",,,,1
+85,{},85,"Entry ""up, upwards, upper""",,,,1
+86,{},86,"Entry ""untie, untwist""",,,,1
+87,{},87,"Entry ""unstable""",,,,1
+88,{},88,"Entry ""uncle, mother’s brother""",,,,1
+89,{},89,"Entry ""two""",,,,1
+90,{},90,"Entry ""twist > wrap, fold""",,,,1
+91,{},91,"Entry ""twist > curly (3)""",,,,1
+92,{},92,"Entry ""twist > curly (2)""",,,,1
+93,{},93,"Entry ""twist > curly (1)""",,,,1
+94,{},94,"Entry ""twist (3)""",,,,1
+95,{},95,"Entry ""twist (2)""",,,,1
+96,{},96,"Entry ""twist (1)""",,,,1
+97,{},97,"Entry ""twins (2)""",,,,1
+98,{},98,"Entry ""twin, pair""",,,,1
+99,{},99,"Entry ""turtle (2)""",,,,1
+100,{},100,"Entry ""turtle (1)""",,,,1
+101,{},101,"Entry ""turnip, Psoralea (2)""",,,,1
+102,{},102,"Entry ""turnip, Psoralea (1)""",,,,1
+103,{},103,"Entry ""turn over (4)""",,,,1
+104,{},104,"Entry ""turn over (3)""",,,,1
+105,{},105,"Entry ""turn over (2), roll (2)""",,,,1
+106,{},106,"Entry ""turn over (1), roll (1)""",,,,1
+107,{},107,"Entry ""turn (2)""",,,,1
+108,{},108,"Entry ""turn (1) > roll""",,,,1
+109,{},109,"Entry ""tree, wood""",,,,1
+110,{},110,"Entry ""tree, bone, leg, stalk, stem, trunk""",,,,1
+111,{},111,"Entry ""travel""",,,,1
+112,{},112,"Entry ""trap""",,,,1
+113,{},113,"Entry ""trade""",,,,1
+114,{},114,"Entry ""town (2)""",,,,1
+115,{},115,"Entry ""town (1)""",,,,1
+116,{},116,"Entry ""towards (2)""",,,,1
+117,{},117,"Entry ""towards (1)""",,,,1
+118,{},118,"Entry ""toward""",,,,1
+119,{},119,"Entry ""touch""",,,,1
+120,{},120,"Entry ""tooth (2)""",,,,1
+121,{},121,"Entry ""tooth (1), edge, point""",,,,1
+122,{},122,"Entry ""tongue""",,,,1
+123,{},123,"Entry ""tobacco""",,,,1
+124,{},124,"Entry ""tipi, conical tent""",,,,1
+125,{},125,"Entry ""time reference""",,,,1
+126,{},126,"Entry ""tie (3)""",,,,1
+127,{},127,"Entry ""tie (2)""",,,,1
+128,{},128,"Entry ""tie (1)""",,,,1
+129,{},129,"Entry ""thunder (2)""",,,,1
+130,{},130,"Entry ""thunder (1)""",,,,1
+131,{},131,"Entry ""throw dart""",,,,1
+132,{},132,"Entry ""throw away""",,,,1
+133,{},133,"Entry ""throat""",,,,1
+134,{},134,"Entry ""three""",,,,1
+135,{},135,"Entry ""this, here, now (3)""",,,,1
+136,{},136,"Entry ""this, here, now (2)""",,,,1
+137,{},137,"Entry ""this, here, now (1)""",,,,1
+138,{},138,"Entry ""this side (2)""",,,,1
+139,{},139,"Entry ""this side (1)""",,,,1
+140,{},140,"Entry ""third daughter""",,,,1
+141,{},141,"Entry ""think (3)""",,,,1
+142,{},142,"Entry ""think (2)""",,,,1
+143,{},143,"Entry ""think (1)""",,,,1
+144,{},144,"Entry ""thin""",,,,1
+145,{},145,"Entry ""thigh""",,,,1
+146,{},146,"Entry ""thick""",,,,1
+147,{},147,"Entry ""the""",,,,1
+148,{},148,"Entry ""that (3)""",,,,1
+149,{},149,"Entry ""that (2) > demonstrative, reference marker, relative""",,,,1
+150,{},150,"Entry ""that (1)""",,,,1
+151,{},151,"Entry ""thank you""",,,,1
+152,{},152,"Entry ""testicle (2)""",,,,1
+153,{},153,"Entry ""testicle (1)""",,,,1
+154,{},154,"Entry ""ten (2)""",,,,1
+155,{},155,"Entry ""ten (1)""",,,,1
+156,{},156,"Entry ""temporal subordination""",,,,1
+157,{},157,"Entry ""tell""",,,,1
+158,{},158,"Entry ""teen formative""",,,,1
+159,{},159,"Entry ""tear""",,,,1
+160,{},160,"Entry ""tail (2) > bird tail""",,,,1
+161,{},161,"Entry ""tail (1)""",,,,1
+162,{},162,"Entry ""sycamore ? (birch, maple)""",,,,1
+163,{},163,"Entry ""swell (4)""",,,,1
+164,{},164,"Entry ""swell (3)""",,,,1
+165,{},165,"Entry ""swell (2)""",,,,1
+166,{},166,"Entry ""swell (1)""",,,,1
+167,{},167,"Entry ""sweet (2)""",,,,1
+168,{},168,"Entry ""sweet (1)""",,,,1
+169,{},169,"Entry ""sweat""",,,,1
+170,{},170,"Entry ""swallow (bird)""",,,,1
+171,{},171,"Entry ""surround, head off, intercept""",,,,1
+172,{},172,"Entry ""surround""",,,,1
+173,{},173,"Entry ""sunflower""",,,,1
+174,{},174,"Entry ""sun""",,,,1
+175,{},175,"Entry ""summer""",,,,1
+176,{},176,"Entry ""sudden action (2)""",,,,1
+177,{},177,"Entry ""sudden action (1)""",,,,1
+178,{},178,"Entry ""suck (3)""",,,,1
+179,{},179,"Entry ""suck (2)""",,,,1
+180,{},180,"Entry ""suck (1)""",,,,1
+181,{},181,"Entry ""stun, kill""",,,,1
+182,{},182,"Entry ""stuff""",,,,1
+183,{},183,"Entry ""struggle""",,,,1
+184,{},184,"Entry ""strike (6)""",,,,1
+185,{},185,"Entry ""strike (5)""",,,,1
+186,{},186,"Entry ""strike (4)""",,,,1
+187,{},187,"Entry ""strike (3)""",,,,1
+188,{},188,"Entry ""strike (2)""",,,,1
+189,{},189,"Entry ""strike (1)""",,,,1
+190,{},190,"Entry ""stretch (3)""",,,,1
+191,{},191,"Entry ""stretch (2)""",,,,1
+192,{},192,"Entry ""stretch (1)""",,,,1
+193,{},193,"Entry ""strawberry""",,,,1
+194,{},194,"Entry ""straight""",,,,1
+195,{},195,"Entry ""store away""",,,,1
+196,{},196,"Entry ""stop (2)""",,,,1
+197,{},197,"Entry ""stop (1)""",,,,1
+198,{},198,"Entry ""stomach, paunch""",,,,1
+199,{},199,"Entry ""stink (3)""",,,,1
+200,{},200,"Entry ""stink (2)""",,,,1
+201,{},201,"Entry ""stink (1)""",,,,1
+202,{},202,"Entry ""stiff""",,,,1
+203,{},203,"Entry ""stick (7)""",,,,1
+204,{},204,"Entry ""stick (6)""",,,,1
+205,{},205,"Entry ""stick (5)""",,,,1
+206,{},206,"Entry ""stick (4)""",,,,1
+207,{},207,"Entry ""stick (3)""",,,,1
+208,{},208,"Entry ""stick (2)""",,,,1
+209,{},209,"Entry ""stick (1)""",,,,1
+210,{},210,"Entry ""steal (2)""",,,,1
+211,{},211,"Entry ""steal (1)""",,,,1
+212,{},212,"Entry ""star (3)""",,,,1
+213,{},213,"Entry ""star (2)""",,,,1
+214,{},214,"Entry ""star (1)""",,,,1
+215,{},215,"Entry ""standing, inanim. classifier""",,,,1
+216,{},216,"Entry ""standing, continue, standing positional""",,,,1
+217,{},217,"Entry ""stand""",,,,1
+218,{},218,"Entry ""stagger""",,,,1
+219,{},219,"Entry ""stab (2)""",,,,1
+220,{},220,"Entry ""stab (1)""",,,,1
+221,{},221,"Entry ""squirrel > ground squirrel""",,,,1
+222,{},222,"Entry ""squirrel > flying squirrel""",,,,1
+223,{},223,"Entry ""squirrel (2)""",,,,1
+224,{},224,"Entry ""squirrel (1)""",,,,1
+225,{},225,"Entry ""squeeze (9)""",,,,1
+226,{},226,"Entry ""squeeze (8)""",,,,1
+227,{},227,"Entry ""squeeze (7)""",,,,1
+228,{},228,"Entry ""squeeze (6)""",,,,1
+229,{},229,"Entry ""squeeze (5)""",,,,1
+230,{},230,"Entry ""squeeze (4)""",,,,1
+231,{},231,"Entry ""squeeze (3)""",,,,1
+232,{},232,"Entry ""squeeze (2)""",,,,1
+233,{},233,"Entry ""squeeze (1)""",,,,1
+234,{},234,"Entry ""sprout""",,,,1
+235,{},235,"Entry ""spring (water) (2)""",,,,1
+236,{},236,"Entry ""spring (water) (1)""",,,,1
+237,{},237,"Entry ""spring (season)""",,,,1
+238,{},238,"Entry ""spread out""",,,,1
+239,{},239,"Entry ""spread > flat (5)""",,,,1
+240,{},240,"Entry ""spread > flat (4)""",,,,1
+241,{},241,"Entry ""spread > flat (3)""",,,,1
+242,{},242,"Entry ""spread > flat (2)""",,,,1
+243,{},243,"Entry ""spread > flat (1)""",,,,1
+244,{},244,"Entry ""spread (3)""",,,,1
+245,{},245,"Entry ""spread (2)""",,,,1
+246,{},246,"Entry ""spread (1)""",,,,1
+247,{},247,"Entry ""spouse""",,,,1
+248,{},248,"Entry ""spotted > striped""",,,,1
+249,{},249,"Entry ""spotted (2)""",,,,1
+250,{},250,"Entry ""spotted (1)""",,,,1
+251,{},251,"Entry ""split (9)""",,,,1
+252,{},252,"Entry ""split (8)""",,,,1
+253,{},253,"Entry ""split (7)""",,,,1
+254,{},254,"Entry ""split (6)""",,,,1
+255,{},255,"Entry ""split (5)""",,,,1
+256,{},256,"Entry ""split (4)""",,,,1
+257,{},257,"Entry ""split (3)""",,,,1
+258,{},258,"Entry ""split (2)""",,,,1
+259,{},259,"Entry ""split (1)""",,,,1
+260,{},260,"Entry ""spit (2), foam""",,,,1
+261,{},261,"Entry ""spit (1)""",,,,1
+262,{},262,"Entry ""spine (2)""",,,,1
+263,{},263,"Entry ""spine (1)""",,,,1
+264,{},264,"Entry ""spill""",,,,1
+265,{},265,"Entry ""spider""",,,,1
+266,{},266,"Entry ""speak, talk""",,,,1
+267,{},267,"Entry ""south > downstream""",,,,1
+268,{},268,"Entry ""south""",,,,1
+269,{},269,"Entry ""sour (3)""",,,,1
+270,{},270,"Entry ""sour (2)""",,,,1
+271,{},271,"Entry ""sour (1)""",,,,1
+272,{},272,"Entry ""soup""",,,,1
+273,{},273,"Entry ""song""",,,,1
+274,{},274,"Entry ""son-in-law (2)""",,,,1
+275,{},275,"Entry ""son-in-law (1)""",,,,1
+276,{},276,"Entry ""son, third or younger""",,,,1
+277,{},277,"Entry ""son, second born""",,,,1
+278,{},278,"Entry ""son, first or eldest""",,,,1
+279,{},279,"Entry ""son""",,,,1
+280,{},280,"Entry ""something (2)""",,,,1
+281,{},281,"Entry ""something (1)""",,,,1
+282,{},282,"Entry ""some, a little""",,,,1
+283,{},283,"Entry ""soldier""",,,,1
+284,{},284,"Entry ""soft (3)""",,,,1
+285,{},285,"Entry ""soft (2)""",,,,1
+286,{},286,"Entry ""soft (1)""",,,,1
+287,{},287,"Entry ""soak, spill (1)""",,,,1
+288,{},288,"Entry ""so, thus""",,,,1
+289,{},289,"Entry ""snowshoe""",,,,1
+290,{},290,"Entry ""snow (3)""",,,,1
+291,{},291,"Entry ""snow (2)""",,,,1
+292,{},292,"Entry ""snow (1)""",,,,1
+293,{},293,"Entry ""snot""",,,,1
+294,{},294,"Entry ""snipe (sandpiper, killdeer)""",,,,1
+295,{},295,"Entry ""sneeze""",,,,1
+296,{},296,"Entry ""smooth (2)""",,,,1
+297,{},297,"Entry ""smooth (1)""",,,,1
+298,{},298,"Entry ""smoke tobacco, pipe""",,,,1
+299,{},299,"Entry ""smell""",,,,1
+300,{},300,"Entry ""slowly""",,,,1
+301,{},301,"Entry ""slow""",,,,1
+302,{},302,"Entry ""slip (6)""",,,,1
+303,{},303,"Entry ""slip (5)""",,,,1
+304,{},304,"Entry ""slip (4)""",,,,1
+305,{},305,"Entry ""slip (3)""",,,,1
+306,{},306,"Entry ""slip (2)""",,,,1
+307,{},307,"Entry ""slip (1)""",,,,1
+308,{},308,"Entry ""slide (4)""",,,,1
+309,{},309,"Entry ""slide (3)""",,,,1
+310,{},310,"Entry ""slide (2)""",,,,1
+311,{},311,"Entry ""slide (1)""",,,,1
+312,{},312,"Entry ""sleep""",,,,1
+313,{},313,"Entry ""sky""",,,,1
+314,{},314,"Entry ""skunk""",,,,1
+315,{},315,"Entry ""skinny, thin""",,,,1
+316,{},316,"Entry ""skin""",,,,1
+317,{},317,"Entry ""skim (3)""",,,,1
+318,{},318,"Entry ""skim (2)""",,,,1
+319,{},319,"Entry ""skim (1)""",,,,1
+320,{},320,"Entry ""six""",,,,1
+321,{},321,"Entry ""sitting, be; sitting positional""",,,,1
+322,{},322,"Entry ""sister-in-law (2) wHuSi, wBrWi""",,,,1
+323,{},323,"Entry ""sister-in-law (1) mWiSi, mBrWi""",,,,1
+324,{},324,"Entry ""sister (6)""",,,,1
+325,{},325,"Entry ""sister (5) wSiYo""",,,,1
+326,{},326,"Entry ""sister (4) wSiEl""",,,,1
+327,{},327,"Entry ""sister (3) mSiYo""",,,,1
+328,{},328,"Entry ""sister (2) mSiEl""",,,,1
+329,{},329,"Entry ""sister (1) mSiEl""",,,,1
+330,{},330,"Entry ""sink > drown""",,,,1
+331,{},331,"Entry ""singe""",,,,1
+332,{},332,"Entry ""sing""",,,,1
+333,{},333,"Entry ""sinew""",,,,1
+334,{},334,"Entry ""similitive""",,,,1
+335,{},335,"Entry ""similar""",,,,1
+336,{},336,"Entry ""side (2)""",,,,1
+337,{},337,"Entry ""side (1)""",,,,1
+338,{},338,"Entry ""show""",,,,1
+339,{},339,"Entry ""shout""",,,,1
+340,{},340,"Entry ""shoulder > scapula""",,,,1
+341,{},341,"Entry ""shoulder""",,,,1
+342,{},342,"Entry ""short""",,,,1
+343,{},343,"Entry ""shooting instrumental""",,,,1
+344,{},344,"Entry ""shoot""",,,,1
+345,{},345,"Entry ""shine (4)""",,,,1
+346,{},346,"Entry ""shine (3)""",,,,1
+347,{},347,"Entry ""shine (2)""",,,,1
+348,{},348,"Entry ""shine (1)""",,,,1
+349,{},349,"Entry ""shinbone""",,,,1
+350,{},350,"Entry ""shin""",,,,1
+351,{},351,"Entry ""shell > spoon""",,,,1
+352,{},352,"Entry ""sharpen, grind""",,,,1
+353,{},353,"Entry ""sharp (2)""",,,,1
+354,{},354,"Entry ""sharp (1)""",,,,1
+355,{},355,"Entry ""shallow""",,,,1
+356,{},356,"Entry ""shake > tremble""",,,,1
+357,{},357,"Entry ""shake > move (2)""",,,,1
+358,{},358,"Entry ""shake > move (1)""",,,,1
+359,{},359,"Entry ""shake (4)""",,,,1
+360,{},360,"Entry ""shake (3)""",,,,1
+361,{},361,"Entry ""shake (2)""",,,,1
+362,{},362,"Entry ""shake (1)""",,,,1
+363,{},363,"Entry ""shadow, soul""",,,,1
+364,{},364,"Entry ""sew""",,,,1
+365,{},365,"Entry ""seven (2)""",,,,1
+366,{},366,"Entry ""seven (1)""",,,,1
+367,{},367,"Entry ""set upright""",,,,1
+368,{},368,"Entry ""separate > forked""",,,,1
+369,{},369,"Entry ""separate (5)""",,,,1
+370,{},370,"Entry ""separate (4)""",,,,1
+371,{},371,"Entry ""separate (3)""",,,,1
+372,{},372,"Entry ""separate (2)""",,,,1
+373,{},373,"Entry ""separate (1)""",,,,1
+374,{},374,"Entry ""see (2)""",,,,1
+375,{},375,"Entry ""see (1)""",,,,1
+376,{},376,"Entry ""second daughter""",,,,1
+377,{},377,"Entry ""scratch > dig, dig out""",,,,1
+378,{},378,"Entry ""scratch""",,,,1
+379,{},379,"Entry ""scrape clean > wipe clean, clear off""",,,,1
+380,{},380,"Entry ""scrape clean > scrape up, scrape off, clear off""",,,,1
+381,{},381,"Entry ""scrape > smooth, shave (2)""",,,,1
+382,{},382,"Entry ""scrape > smooth, shave (1)""",,,,1
+383,{},383,"Entry ""scrape > scratching noise, scraping noise, sweep""",,,,1
+384,{},384,"Entry ""scrape > scratch, grate, rake""",,,,1
+385,{},385,"Entry ""scrape > scrape around, heap up""",,,,1
+386,{},386,"Entry ""scrape > peel""",,,,1
+387,{},387,"Entry ""scrape > dig, scratch""",,,,1
+388,{},388,"Entry ""scrape (4)""",,,,1
+389,{},389,"Entry ""scrape (3)""",,,,1
+390,{},390,"Entry ""scrape (2)""",,,,1
+391,{},391,"Entry ""scrape (1)""",,,,1
+392,{},392,"Entry ""scatter (2)""",,,,1
+393,{},393,"Entry ""scatter (1)""",,,,1
+394,{},394,"Entry ""scar (2)""",,,,1
+395,{},395,"Entry ""scar (1)""",,,,1
+396,{},396,"Entry ""say""",,,,1
+397,{},397,"Entry ""sand (2)""",,,,1
+398,{},398,"Entry ""sand (1)""",,,,1
+399,{},399,"Entry ""salt (2)""",,,,1
+400,{},400,"Entry ""salt (1)""",,,,1
+401,{},401,"Entry ""sacred (2b), god""",,,,1
+402,{},402,"Entry ""sacred (2a), snake""",,,,1
+403,{},403,"Entry ""sacred (1b)""",,,,1
+404,{},404,"Entry ""sacred (1a)""",,,,1
+405,{},405,"Entry ""run (3), get out""",,,,1
+406,{},406,"Entry ""run (2)""",,,,1
+407,{},407,"Entry ""run (1)""",,,,1
+408,{},408,"Entry ""rub (2)""",,,,1
+409,{},409,"Entry ""rub (1)""",,,,1
+410,{},410,"Entry ""round (3)""",,,,1
+411,{},411,"Entry ""round (2)""",,,,1
+412,{},412,"Entry ""round (1)""",,,,1
+413,{},413,"Entry ""rough (4)""",,,,1
+414,{},414,"Entry ""rough (3)""",,,,1
+415,{},415,"Entry ""rough (2)""",,,,1
+416,{},416,"Entry ""rough (1)""",,,,1
+417,{},417,"Entry ""roll""",,,,1
+418,{},418,"Entry ""rock (4), pebble""",,,,1
+419,{},419,"Entry ""rock (3)""",,,,1
+420,{},420,"Entry ""rock (2)""",,,,1
+421,{},421,"Entry ""rock (1)""",,,,1
+422,{},422,"Entry ""robin""",,,,1
+423,{},423,"Entry ""roast (2)""",,,,1
+424,{},424,"Entry ""roast (1)""",,,,1
+425,{},425,"Entry ""road (2)""",,,,1
+426,{},426,"Entry ""road (1), path""",,,,1
+427,{},427,"Entry ""river""",,,,1
+428,{},428,"Entry ""ripe, cooked""",,,,1
+429,{},429,"Entry ""rip (3)""",,,,1
+430,{},430,"Entry ""rip (2)""",,,,1
+431,{},431,"Entry ""rip (1)""",,,,1
+432,{},432,"Entry ""rim, bottom of kettle""",,,,1
+433,{},433,"Entry ""right (side)""",,,,1
+434,{},434,"Entry ""right (hand)""",,,,1
+435,{},435,"Entry ""rice, wild, Zizania aquatica""",,,,1
+436,{},436,"Entry ""rib; back, lower""",,,,1
+437,{},437,"Entry ""rib""",,,,1
+438,{},438,"Entry ""remember""",,,,1
+439,{},439,"Entry ""red (2)""",,,,1
+440,{},440,"Entry ""red (1b), red hawthorn""",,,,1
+441,{},441,"Entry ""red (1a)""",,,,1
+442,{},442,"Entry ""raw""",,,,1
+443,{},443,"Entry ""rattle, rumble""",,,,1
+444,{},444,"Entry ""rattle (2c)""",,,,1
+445,{},445,"Entry ""rattle (2b)""",,,,1
+446,{},446,"Entry ""rattle (2a)""",,,,1
+447,{},447,"Entry ""rattle (1c)""",,,,1
+448,{},448,"Entry ""rattle (1b)""",,,,1
+449,{},449,"Entry ""rattle (1a)""",,,,1
+450,{},450,"Entry ""rain (2)""",,,,1
+451,{},451,"Entry ""rain (1)""",,,,1
+452,{},452,"Entry ""raccoon""",,,,1
+453,{},453,"Entry ""rabbit""",,,,1
+454,{},454,"Entry ""quiver (for arrows)""",,,,1
+455,{},455,"Entry ""quiet; rustle""",,,,1
+456,{},456,"Entry ""quantifier (2)""",,,,1
+457,{},457,"Entry ""quantifier (1)""",,,,1
+458,{},458,"Entry ""quail, prairie chicken""",,,,1
+459,{},459,"Entry ""put, set upright""",,,,1
+460,{},460,"Entry ""put in, fill, plant""",,,,1
+461,{},461,"Entry ""put (2)""",,,,1
+462,{},462,"Entry ""put""",,,,1
+463,{},463,"Entry ""push instrumental""",,,,1
+464,{},464,"Entry ""push (pull)""",,,,1
+465,{},465,"Entry ""push (2)""",,,,1
+466,{},466,"Entry ""pull, push (2)""",,,,1
+467,{},467,"Entry ""pull, push (1)""",,,,1
+468,{},468,"Entry ""price, wages""",,,,1
+469,{},469,"Entry ""press, instrumental""",,,,1
+470,{},470,"Entry ""press down""",,,,1
+471,{},471,"Entry ""press""",,,,1
+472,{},472,"Entry ""precipitate""",,,,1
+473,{},473,"Entry ""prairie""",,,,1
+474,{},474,"Entry ""powder""",,,,1
+475,{},475,"Entry ""pound, mortar""",,,,1
+476,{},476,"Entry ""pound""",,,,1
+477,{},477,"Entry ""potato, ground nut""",,,,1
+478,{},478,"Entry ""possessive root""",,,,1
+479,{},479,"Entry ""portative, comitative, have""",,,,1
+480,{},480,"Entry ""porcupine""",,,,1
+481,{},481,"Entry ""pole(s), lodge""",,,,1
+482,{},482,"Entry ""point at""",,,,1
+483,{},483,"Entry ""plural""",,,,1
+484,{},484,"Entry ""plum""",,,,1
+485,{},485,"Entry ""play (2)""",,,,1
+486,{},486,"Entry ""play (1)""",,,,1
+487,{},487,"Entry ""pine tree""",,,,1
+488,{},488,"Entry ""pinch (2)""",,,,1
+489,{},489,"Entry ""pinch (1)""",,,,1
+490,{},490,"Entry ""pierce""",,,,1
+491,{},491,"Entry ""pick fruit""",,,,1
+492,{},492,"Entry ""persimmon""",,,,1
+493,{},493,"Entry ""permit""",,,,1
+494,{},494,"Entry ""penis""",,,,1
+495,{},495,"Entry ""pelican""",,,,1
+496,{},496,"Entry ""peel (6)""",,,,1
+497,{},497,"Entry ""peel (5) > skin""",,,,1
+498,{},498,"Entry ""peel (4) > skin""",,,,1
+499,{},499,"Entry ""peel (3)""",,,,1
+500,{},500,"Entry ""peel (2)""",,,,1
+501,{},501,"Entry ""peel (1)""",,,,1
+502,{},502,"Entry ""peek""",,,,1
+503,{},503,"Entry ""paw the earth""",,,,1
+504,{},504,"Entry ""past (suffix or post clitic)""",,,,1
+505,{},505,"Entry ""paddle, swim""",,,,1
+506,{},506,"Entry ""owl (2)""",,,,1
+507,{},507,"Entry ""owl (1), moth""",,,,1
+508,{},508,"Entry ""outside""",,,,1
+509,{},509,"Entry ""otter""",,,,1
+510,{},510,"Entry ""other, distant""",,,,1
+511,{},511,"Entry ""order > control""",,,,1
+512,{},512,"Entry ""open up""",,,,1
+513,{},513,"Entry ""open > break open""",,,,1
+514,{},514,"Entry ""open""",,,,1
+515,{},515,"Entry ""ooze""",,,,1
+516,{},516,"Entry ""onion""",,,,1
+517,{},517,"Entry ""one of a pair, another""",,,,1
+518,{},518,"Entry ""one (2)""",,,,1
+519,{},519,"Entry ""one (1)""",,,,1
+520,{},520,"Entry ""on, locative""",,,,1
+521,{},521,"Entry ""old, mysterious(?)""",,,,1
+522,{},522,"Entry ""old, mature""",,,,1
+523,{},523,"Entry ""old, Ancient of - (Suffix)""",,,,1
+524,{},524,"Entry ""old man""",,,,1
+525,{},525,"Entry ""old""",,,,1
+526,{},526,"Entry ""offering""",,,,1
+527,{},527,"Entry ""oak (3)""",,,,1
+528,{},528,"Entry ""oak (2)""",,,,1
+529,{},529,"Entry ""oak (1)""",,,,1
+530,{},530,"Entry ""nudge""",,,,1
+531,{},531,"Entry ""now""",,,,1
+532,{},532,"Entry ""nose (3), nostril""",,,,1
+533,{},533,"Entry ""nose (2), end, point, tip (2)""",,,,1
+534,{},534,"Entry ""none, be/have, lack""",,,,1
+535,{},535,"Entry ""nine""",,,,1
+536,{},536,"Entry ""niece (2), female’s brother’s daughter""",,,,1
+537,{},537,"Entry ""niece (1), male’s sister’s daughter""",,,,1
+538,{},538,"Entry ""new (2)""",,,,1
+539,{},539,"Entry ""new (1)""",,,,1
+540,{},540,"Entry ""nephew (2), female’s brother’s son""",,,,1
+541,{},541,"Entry ""nephew (1), male’s sister’s son""",,,,1
+542,{},542,"Entry ""negative (3)""",,,,1
+543,{},543,"Entry ""negative (2)""",,,,1
+544,{},544,"Entry ""negative (1), dubitative""",,,,1
+545,{},545,"Entry ""necklace""",,,,1
+546,{},546,"Entry ""neck (3)""",,,,1
+547,{},547,"Entry ""neck (2), side of neck (?)""",,,,1
+548,{},548,"Entry ""neck (1), nape""",,,,1
+549,{},549,"Entry ""near""",,,,1
+550,{},550,"Entry ""navel""",,,,1
+551,{},551,"Entry ""narrow, small""",,,,1
+552,{},552,"Entry ""name""",,,,1
+553,{},553,"Entry ""muskrat, prairie dog (1)""",,,,1
+554,{},554,"Entry ""mud, dirt, earth""",,,,1
+555,{},555,"Entry ""mucus""",,,,1
+556,{},556,"Entry ""mouth, instrumental""",,,,1
+557,{},557,"Entry ""mouth""",,,,1
+558,{},558,"Entry ""mouse""",,,,1
+559,{},559,"Entry ""mourn""",,,,1
+560,{},560,"Entry ""mountain""",,,,1
+561,{},561,"Entry ""mother (2) (vocative)""",,,,1
+562,{},562,"Entry ""mother (1) (referential)""",,,,1
+563,{},563,"Entry ""mosquito""",,,,1
+564,{},564,"Entry ""mortar""",,,,1
+565,{},565,"Entry ""moon, sun, orb""",,,,1
+566,{},566,"Entry ""moist, thaw, soft""",,,,1
+567,{},567,"Entry ""moist (2)""",,,,1
+568,{},568,"Entry ""moist (1), soft, wet""",,,,1
+569,{},569,"Entry ""moccasin (2)""",,,,1
+570,{},570,"Entry ""moccasin (1)""",,,,1
+571,{},571,"Entry ""mix (2)""",,,,1
+572,{},572,"Entry ""mix (1)""",,,,1
+573,{},573,"Entry ""miss""",,,,1
+574,{},574,"Entry ""mire (2)""",,,,1
+575,{},575,"Entry ""mire (1)""",,,,1
+576,{},576,"Entry ""middle; inside""",,,,1
+577,{},577,"Entry ""middle""",,,,1
+578,{},578,"Entry ""metal, copper, iron""",,,,1
+579,{},579,"Entry ""melt (2)""",,,,1
+580,{},580,"Entry ""melt (1)""",,,,1
+581,{},581,"Entry ""meet""",,,,1
+582,{},582,"Entry ""medicine""",,,,1
+583,{},583,"Entry ""mean, intend""",,,,1
+584,{},584,"Entry ""marrow""",,,,1
+585,{},585,"Entry ""marked > spotted, striped (3)""",,,,1
+586,{},586,"Entry ""marked > spotted, striped (2)""",,,,1
+587,{},587,"Entry ""marked > spotted, striped (1)""",,,,1
+588,{},588,"Entry ""mark, scratch > score, mark""",,,,1
+589,{},589,"Entry ""maple""",,,,1
+590,{},590,"Entry ""many, much""",,,,1
+591,{},591,"Entry ""man, person (2)""",,,,1
+592,{},592,"Entry ""man, person (1)""",,,,1
+593,{},593,"Entry ""male""",,,,1
+594,{},594,"Entry ""make marks > mark, scratch""",,,,1
+595,{},595,"Entry ""make hole""",,,,1
+596,{},596,"Entry ""lungs""",,,,1
+597,{},597,"Entry ""love""",,,,1
+598,{},598,"Entry ""louse""",,,,1
+599,{},599,"Entry ""lost""",,,,1
+600,{},600,"Entry ""loose, knock loose""",,,,1
+601,{},601,"Entry ""loon""",,,,1
+602,{},602,"Entry ""look into, peek""",,,,1
+603,{},603,"Entry ""look at (2)""",,,,1
+604,{},604,"Entry ""look at (1)""",,,,1
+605,{},605,"Entry ""long, extended in time or space > distant, then""",,,,1
+606,{},606,"Entry ""long ago, far away""",,,,1
+607,{},607,"Entry ""long (2)""",,,,1
+608,{},608,"Entry ""long (1)""",,,,1
+609,{},609,"Entry ""locative, demonstrative""",,,,1
+610,{},610,"Entry ""locative (9)""",,,,1
+611,{},611,"Entry ""locative (8)""",,,,1
+612,{},612,"Entry ""locative (7)""",,,,1
+613,{},613,"Entry ""locative (6)""",,,,1
+614,{},614,"Entry ""locative (5)""",,,,1
+615,{},615,"Entry ""locative (4)""",,,,1
+616,{},616,"Entry ""locative (3)""",,,,1
+617,{},617,"Entry ""locative (2)""",,,,1
+618,{},618,"Entry ""locative (1)""",,,,1
+619,{},619,"Entry ""liver""",,,,1
+620,{},620,"Entry ""little, young, child""",,,,1
+621,{},621,"Entry ""lip (upper), snout""",,,,1
+622,{},622,"Entry ""lip""",,,,1
+623,{},623,"Entry ""lightning, sheet (?)""",,,,1
+624,{},624,"Entry ""lightning, forked (?)""",,,,1
+625,{},625,"Entry ""light in weight""",,,,1
+626,{},626,"Entry ""lie, be lying, positional""",,,,1
+627,{},627,"Entry ""lid, cover""",,,,1
+628,{},628,"Entry ""lick""",,,,1
+629,{},629,"Entry ""let’s see, well, um""",,,,1
+630,{},630,"Entry ""leggings""",,,,1
+631,{},631,"Entry ""leg, thigh""",,,,1
+632,{},632,"Entry ""left (side or hand)""",,,,1
+633,{},633,"Entry ""leech""",,,,1
+634,{},634,"Entry ""leaf (2)""",,,,1
+635,{},635,"Entry ""leaf (1)""",,,,1
+636,{},636,"Entry ""lay""",,,,1
+637,{},637,"Entry ""laugh""",,,,1
+638,{},638,"Entry ""lake, water""",,,,1
+639,{},639,"Entry ""lace, lace up""",,,,1
+640,{},640,"Entry ""know (3)""",,,,1
+641,{},641,"Entry ""know (2), recognize""",,,,1
+642,{},642,"Entry ""know (1)""",,,,1
+643,{},643,"Entry ""knock over, lean""",,,,1
+644,{},644,"Entry ""knock (2)""",,,,1
+645,{},645,"Entry ""knock (1)""",,,,1
+646,{},646,"Entry ""knob > taper""",,,,1
+647,{},647,"Entry ""knife""",,,,1
+648,{},648,"Entry ""knee, lap, thigh""",,,,1
+649,{},649,"Entry ""kill (2)""",,,,1
+650,{},650,"Entry ""kill (1)""",,,,1
+651,{},651,"Entry ""kettle""",,,,1
+652,{},652,"Entry ""kernel, seed""",,,,1
+653,{},653,"Entry ""juniper, red cedar""",,,,1
+654,{},654,"Entry ""jump over""",,,,1
+655,{},655,"Entry ""jump""",,,,1
+656,{},656,"Entry ""juice, liquid""",,,,1
+657,{},657,"Entry ""jealous""",,,,1
+658,{},658,"Entry ""jaw""",,,,1
+659,{},659,"Entry ""itch (2)""",,,,1
+660,{},660,"Entry ""itch (1)""",,,,1
+661,{},661,"Entry ""island""",,,,1
+662,{},662,"Entry ""interrogative, indefinite > something, what""",,,,1
+663,{},663,"Entry ""interrogative (4)""",,,,1
+664,{},664,"Entry ""interrogative (3)""",,,,1
+665,{},665,"Entry ""interrogative (2)""",,,,1
+666,{},666,"Entry ""interrogative (1)""",,,,1
+667,{},667,"Entry ""indefinite/interrogative (3)""",,,,1
+668,{},668,"Entry ""indefinite/interrogative (2)""",,,,1
+669,{},669,"Entry ""indefinite/interrogative (1)""",,,,1
+670,{},670,"Entry ""in, locative""",,,,1
+671,{},671,"Entry ""ice""",,,,1
+672,{},672,"Entry ""husk, pull off (1), flay""",,,,1
+673,{},673,"Entry ""husband""",,,,1
+674,{},674,"Entry ""hunt, seek""",,,,1
+675,{},675,"Entry ""humpbacked""",,,,1
+676,{},676,"Entry ""howl""",,,,1
+677,{},677,"Entry ""how""",,,,1
+678,{},678,"Entry ""household, home""",,,,1
+679,{},679,"Entry ""hot, warm""",,,,1
+680,{},680,"Entry ""hot weather""",,,,1
+681,{},681,"Entry ""horn, spoon, shell""",,,,1
+682,{},682,"Entry ""horn""",,,,1
+683,{},683,"Entry ""hook""",,,,1
+684,{},684,"Entry ""hollow, empty (2)""",,,,1
+685,{},685,"Entry ""hollow, empty (1)""",,,,1
+686,{},686,"Entry ""hollow, concave""",,,,1
+687,{},687,"Entry ""hollow, a hole""",,,,1
+688,{},688,"Entry ""hollow sound > stamp, stomp""",,,,1
+689,{},689,"Entry ""hole, hollow""",,,,1
+690,{},690,"Entry ""hole, dig""",,,,1
+691,{},691,"Entry ""hole""",,,,1
+692,{},692,"Entry ""hold in mouth""",,,,1
+693,{},693,"Entry ""hold back""",,,,1
+694,{},694,"Entry ""hoarse""",,,,1
+695,{},695,"Entry ""hit, pound""",,,,1
+696,{},696,"Entry ""hit""",,,,1
+697,{},697,"Entry ""hiss (3)""",,,,1
+698,{},698,"Entry ""hiss (2)""",,,,1
+699,{},699,"Entry ""hiss (1)""",,,,1
+700,{},700,"Entry ""hill""",,,,1
+701,{},701,"Entry ""hide, skin, cloth""",,,,1
+702,{},702,"Entry ""hide""",,,,1
+703,{},703,"Entry ""hickory nut""",,,,1
+704,{},704,"Entry ""hickory""",,,,1
+705,{},705,"Entry ""heron, crane""",,,,1
+706,{},706,"Entry ""here, now""",,,,1
+707,{},707,"Entry ""help""",,,,1
+708,{},708,"Entry ""heel""",,,,1
+709,{},709,"Entry ""heavy""",,,,1
+710,{},710,"Entry ""heat/cold, instrumental""",,,,1
+711,{},711,"Entry ""heat""",,,,1
+712,{},712,"Entry ""heart""",,,,1
+713,{},713,"Entry ""hear""",,,,1
+714,{},714,"Entry ""head, nose (1), front end""",,,,1
+715,{},715,"Entry ""head, back of, hair""",,,,1
+716,{},716,"Entry ""hazy, bluish, cloudy""",,,,1
+717,{},717,"Entry ""hazelnut""",,,,1
+718,{},718,"Entry ""hawthorn, red haw""",,,,1
+719,{},719,"Entry ""hawthorn, black""",,,,1
+720,{},720,"Entry ""hawk (2), Buteo""",,,,1
+721,{},721,"Entry ""hawk (1), falcon""",,,,1
+722,{},722,"Entry ""have""",,,,1
+723,{},723,"Entry ""haul""",,,,1
+724,{},724,"Entry ""hat""",,,,1
+725,{},725,"Entry ""harden by fire""",,,,1
+726,{},726,"Entry ""hard > strong, ripe""",,,,1
+727,{},727,"Entry ""hard > cane, walking stick""",,,,1
+728,{},728,"Entry ""hard (2)""",,,,1
+729,{},729,"Entry ""hard (1)""",,,,1
+730,{},730,"Entry ""hang down (2)""",,,,1
+731,{},731,"Entry ""hang down (1)""",,,,1
+732,{},732,"Entry ""handle, stem""",,,,1
+733,{},733,"Entry ""hand, instrumental""",,,,1
+734,{},734,"Entry ""hand > claws, nails""",,,,1
+735,{},735,"Entry ""hand (2)""",,,,1
+736,{},736,"Entry ""hand (1)""",,,,1
+737,{},737,"Entry ""hair, fur, feathers""",,,,1
+738,{},738,"Entry ""hair of head""",,,,1
+739,{},739,"Entry ""hail > freeze""",,,,1
+740,{},740,"Entry ""hail""",,,,1
+741,{},741,"Entry ""hackberry""",,,,1
+742,{},742,"Entry ""guts, intestines""",,,,1
+743,{},743,"Entry ""growl, bellow""",,,,1
+744,{},744,"Entry ""growl > snore, snort""",,,,1
+745,{},745,"Entry ""growl > grunt (2)""",,,,1
+746,{},746,"Entry ""growl > grunt (1)""",,,,1
+747,{},747,"Entry ""grouse""",,,,1
+748,{},748,"Entry ""groove""",,,,1
+749,{},749,"Entry ""groin""",,,,1
+750,{},750,"Entry ""grind, pound""",,,,1
+751,{},751,"Entry ""grind""",,,,1
+752,{},752,"Entry ""grease (2)""",,,,1
+753,{},753,"Entry ""grease (1)""",,,,1
+754,{},754,"Entry ""gray (2)""",,,,1
+755,{},755,"Entry ""gray (1)""",,,,1
+756,{},756,"Entry ""grave""",,,,1
+757,{},757,"Entry ""grass (4)""",,,,1
+758,{},758,"Entry ""grass (3)""",,,,1
+759,{},759,"Entry ""grass (2)""",,,,1
+760,{},760,"Entry ""grass (1)""",,,,1
+761,{},761,"Entry ""grasp > hold, take""",,,,1
+762,{},762,"Entry ""grasp""",,,,1
+763,{},763,"Entry ""grandmother""",,,,1
+764,{},764,"Entry ""grandfather (2)""",,,,1
+765,{},765,"Entry ""grandfather (1)""",,,,1
+766,{},766,"Entry ""gourd > squash""",,,,1
+767,{},767,"Entry ""gourd > rattle""",,,,1
+768,{},768,"Entry ""goose""",,,,1
+769,{},769,"Entry ""good (4), heal""",,,,1
+770,{},770,"Entry ""good (3)""",,,,1
+771,{},771,"Entry ""good (2)""",,,,1
+772,{},772,"Entry ""good (1)""",,,,1
+773,{},773,"Entry ""go vertitive""",,,,1
+774,{},774,"Entry ""go around, coil""",,,,1
+775,{},775,"Entry ""go""",,,,1
+776,{},776,"Entry ""glance off""",,,,1
+777,{},777,"Entry ""give away""",,,,1
+778,{},778,"Entry ""give""",,,,1
+779,{},779,"Entry ""gills, palate""",,,,1
+780,{},780,"Entry ""ghost""",,,,1
+781,{},781,"Entry ""gesture""",,,,1
+782,{},782,"Entry ""general deictic (2)""",,,,1
+783,{},783,"Entry ""general deictic (1)""",,,,1
+784,{},784,"Entry ""gather (3)""",,,,1
+785,{},785,"Entry ""gather (2), assemble (intransitive)""",,,,1
+786,{},786,"Entry ""gather (1), pick up""",,,,1
+787,{},787,"Entry ""gamble""",,,,1
+788,{},788,"Entry ""future (2)""",,,,1
+789,{},789,"Entry ""future (1)""",,,,1
+790,{},790,"Entry ""full""",,,,1
+791,{},791,"Entry ""frozen""",,,,1
+792,{},792,"Entry ""frost (2)""",,,,1
+793,{},793,"Entry ""frost (1)""",,,,1
+794,{},794,"Entry ""from""",,,,1
+795,{},795,"Entry ""frog (3)""",,,,1
+796,{},796,"Entry ""frog (2)""",,,,1
+797,{},797,"Entry ""frog (1), toad""",,,,1
+798,{},798,"Entry ""friend (4)""",,,,1
+799,{},799,"Entry ""friend (3)""",,,,1
+800,{},800,"Entry ""friend (2)""",,,,1
+801,{},801,"Entry ""friend (1)""",,,,1
+802,{},802,"Entry ""fox""",,,,1
+803,{},803,"Entry ""four""",,,,1
+804,{},804,"Entry ""forget""",,,,1
+805,{},805,"Entry ""forest""",,,,1
+806,{},806,"Entry ""forehead (2)""",,,,1
+807,{},807,"Entry ""forehead (1)""",,,,1
+808,{},808,"Entry ""ford, wade""",,,,1
+809,{},809,"Entry ""force, instrumental""",,,,1
+810,{},810,"Entry ""foot, instrumental""",,,,1
+811,{},811,"Entry ""foot""",,,,1
+812,{},812,"Entry ""food""",,,,1
+813,{},813,"Entry ""follow""",,,,1
+814,{},814,"Entry ""fold > wrap""",,,,1
+815,{},815,"Entry ""fog (2) > smoke""",,,,1
+816,{},816,"Entry ""fog (1)""",,,,1
+817,{},817,"Entry ""focus marker""",,,,1
+818,{},818,"Entry ""foam, boil""",,,,1
+819,{},819,"Entry ""fly (insect)""",,,,1
+820,{},820,"Entry ""fly (2)""",,,,1
+821,{},821,"Entry ""fly (1)""",,,,1
+822,{},822,"Entry ""flower (2)""",,,,1
+823,{},823,"Entry ""flower (1)""",,,,1
+824,{},824,"Entry ""float (2)""",,,,1
+825,{},825,"Entry ""float (1)""",,,,1
+826,{},826,"Entry ""flicker (bird)""",,,,1
+827,{},827,"Entry ""flesh""",,,,1
+828,{},828,"Entry ""flee, run away, take refuge""",,,,1
+829,{},829,"Entry ""flat (3)""",,,,1
+830,{},830,"Entry ""flat (2)""",,,,1
+831,{},831,"Entry ""flat (1)""",,,,1
+832,{},832,"Entry ""five (2)""",,,,1
+833,{},833,"Entry ""five (1)""",,,,1
+834,{},834,"Entry ""fish""",,,,1
+835,{},835,"Entry ""firm (2)""",,,,1
+836,{},836,"Entry ""firm (1)""",,,,1
+837,{},837,"Entry ""fire""",,,,1
+838,{},838,"Entry ""find by seeking""",,,,1
+839,{},839,"Entry ""find by chance""",,,,1
+840,{},840,"Entry ""fight""",,,,1
+841,{},841,"Entry ""field (2)""",,,,1
+842,{},842,"Entry ""field (1)""",,,,1
+843,{},843,"Entry ""female, woman""",,,,1
+844,{},844,"Entry ""feeble""",,,,1
+845,{},845,"Entry ""feather""",,,,1
+846,{},846,"Entry ""father (2) (vocative)""",,,,1
+847,{},847,"Entry ""father (1) (referential)""",,,,1
+848,{},848,"Entry ""fat, tallow""",,,,1
+849,{},849,"Entry ""fat, stout""",,,,1
+850,{},850,"Entry ""fart""",,,,1
+851,{},851,"Entry ""far, towards, into""",,,,1
+852,{},852,"Entry ""far, other, across""",,,,1
+853,{},853,"Entry ""fan""",,,,1
+854,{},854,"Entry ""fall > lie down""",,,,1
+855,{},855,"Entry ""fall (2)""",,,,1
+856,{},856,"Entry ""fall (1)""",,,,1
+857,{},857,"Entry ""fail, be unsteady""",,,,1
+858,{},858,"Entry ""fail""",,,,1
+859,{},859,"Entry ""face""",,,,1
+860,{},860,"Entry ""eye""",,,,1
+861,{},861,"Entry ""exist > born""",,,,1
+862,{},862,"Entry ""even (2)""",,,,1
+863,{},863,"Entry ""even (1)""",,,,1
+864,{},864,"Entry ""erect""",,,,1
+865,{},865,"Entry ""enter (3)""",,,,1
+866,{},866,"Entry ""enter (2)""",,,,1
+867,{},867,"Entry ""enter (1)""",,,,1
+868,{},868,"Entry ""end, point, tip (1)""",,,,1
+869,{},869,"Entry ""end, finish > last (2)""",,,,1
+870,{},870,"Entry ""end, finish > last (1)""",,,,1
+871,{},871,"Entry ""emphatic, contrastive, but""",,,,1
+872,{},872,"Entry ""emphatic topic""",,,,1
+873,{},873,"Entry ""elm""",,,,1
+874,{},874,"Entry ""elk""",,,,1
+875,{},875,"Entry ""elbow (2), forearm""",,,,1
+876,{},876,"Entry ""elbow (1)""",,,,1
+877,{},877,"Entry ""eight""",,,,1
+878,{},878,"Entry ""egg""",,,,1
+879,{},879,"Entry ""edge""",,,,1
+880,{},880,"Entry ""eat""",,,,1
+881,{},881,"Entry ""earth, ground, land""",,,,1
+882,{},882,"Entry ""ear (3), inner; hearing""",,,,1
+883,{},883,"Entry ""ear (2), external opening""",,,,1
+884,{},884,"Entry ""ear (1)""",,,,1
+885,{},885,"Entry ""eagle (2)""",,,,1
+886,{},886,"Entry ""eagle (1)""",,,,1
+887,{},887,"Entry ""dwell, dwelling, house""",,,,1
+888,{},888,"Entry ""duck, waterfowl""",,,,1
+889,{},889,"Entry ""dry (3)""",,,,1
+890,{},890,"Entry ""dry (2)""",,,,1
+891,{},891,"Entry ""dry (1)""",,,,1
+892,{},892,"Entry ""drip (3)""",,,,1
+893,{},893,"Entry ""drip (2)""",,,,1
+894,{},894,"Entry ""drip (1)""",,,,1
+895,{},895,"Entry ""drink, inhale smoke""",,,,1
+896,{},896,"Entry ""drink""",,,,1
+897,{},897,"Entry ""dress, skirt, etc.""",,,,1
+898,{},898,"Entry ""dream""",,,,1
+899,{},899,"Entry ""dove, pigeon""",,,,1
+900,{},900,"Entry ""door (2)""",,,,1
+901,{},901,"Entry ""door (1)""",,,,1
+902,{},902,"Entry ""dogwood, cornus sp.""",,,,1
+903,{},903,"Entry ""dog""",,,,1
+904,{},904,"Entry ""do, make, work; to cause""",,,,1
+905,{},905,"Entry ""do, make""",,,,1
+906,{},906,"Entry ""dive""",,,,1
+907,{},907,"Entry ""dirty""",,,,1
+908,{},908,"Entry ""directional locative""",,,,1
+909,{},909,"Entry ""dig out""",,,,1
+910,{},910,"Entry ""dig > scratch""",,,,1
+911,{},911,"Entry ""different""",,,,1
+912,{},912,"Entry ""die""",,,,1
+913,{},913,"Entry ""dew""",,,,1
+914,{},914,"Entry ""demonstrative, locative (2)""",,,,1
+915,{},915,"Entry ""demonstrative, locative (1)""",,,,1
+916,{},916,"Entry ""demonstrative > that, this""",,,,1
+917,{},917,"Entry ""demonstrative > that, the aforesaid""",,,,1
+918,{},918,"Entry ""demonstrative (2)""",,,,1
+919,{},919,"Entry ""demonstrative (1)""",,,,1
+920,{},920,"Entry ""defecate, dung (2)""",,,,1
+921,{},921,"Entry ""defecate, dung (1)""",,,,1
+922,{},922,"Entry ""deer, ruminant""",,,,1
+923,{},923,"Entry ""deceive""",,,,1
+924,{},924,"Entry ""day""",,,,1
+925,{},925,"Entry ""daughter, youngest""",,,,1
+926,{},926,"Entry ""daughter, first""",,,,1
+927,{},927,"Entry ""daughter""",,,,1
+928,{},928,"Entry ""darkness (3)""",,,,1
+929,{},929,"Entry ""darkness (2)""",,,,1
+930,{},930,"Entry ""darkness (1)""",,,,1
+931,{},931,"Entry ""danger, difficulty, hardship""",,,,1
+932,{},932,"Entry ""dance""",,,,1
+933,{},933,"Entry ""cutting instrumental""",,,,1
+934,{},934,"Entry ""cut strips > chop, tear""",,,,1
+935,{},935,"Entry ""cut strips (2)""",,,,1
+936,{},936,"Entry ""cut strips (1)""",,,,1
+937,{},937,"Entry ""cut > open""",,,,1
+938,{},938,"Entry ""cut (3)""",,,,1
+939,{},939,"Entry ""cut (2)""",,,,1
+940,{},940,"Entry ""cut (1)""",,,,1
+941,{},941,"Entry ""cucurbit (2)""",,,,1
+942,{},942,"Entry ""cucurbit (1)""",,,,1
+943,{},943,"Entry ""cry""",,,,1
+944,{},944,"Entry ""crush (2)""",,,,1
+945,{},945,"Entry ""crush (1)""",,,,1
+946,{},946,"Entry ""crunch""",,,,1
+947,{},947,"Entry ""crow > raven""",,,,1
+948,{},948,"Entry ""crow > blackbird""",,,,1
+949,{},949,"Entry ""cross""",,,,1
+950,{},950,"Entry ""creek, branch""",,,,1
+951,{},951,"Entry ""creak, squeak""",,,,1
+952,{},952,"Entry ""crayfish""",,,,1
+953,{},953,"Entry ""crane""",,,,1
+954,{},954,"Entry ""cranberry""",,,,1
+955,{},955,"Entry ""cover (2)""",,,,1
+956,{},956,"Entry ""cover (1)""",,,,1
+957,{},957,"Entry ""count""",,,,1
+958,{},958,"Entry ""cough""",,,,1
+959,{},959,"Entry ""cottonwood, poplar""",,,,1
+960,{},960,"Entry ""correct""",,,,1
+961,{},961,"Entry ""corn ear""",,,,1
+962,{},962,"Entry ""corn > corn mush""",,,,1
+963,{},963,"Entry ""corn (4)""",,,,1
+964,{},964,"Entry ""corn (3)""",,,,1
+965,{},965,"Entry ""corn (2)""",,,,1
+966,{},966,"Entry ""corn (1)""",,,,1
+967,{},967,"Entry ""cord, string (2)""",,,,1
+968,{},968,"Entry ""cord, sinew, vein (1)""",,,,1
+969,{},969,"Entry ""copulate (3)""",,,,1
+970,{},970,"Entry ""copulate (2)""",,,,1
+971,{},971,"Entry ""copulate (1)""",,,,1
+972,{},972,"Entry ""cook""",,,,1
+973,{},973,"Entry ""contrastive""",,,,1
+974,{},974,"Entry ""confused, mistaken, ignorant""",,,,1
+975,{},975,"Entry ""come vertitive""",,,,1
+976,{},976,"Entry ""come""",,,,1
+977,{},977,"Entry ""comb > ravel out""",,,,1
+978,{},978,"Entry ""comb""",,,,1
+979,{},979,"Entry ""collective suffix""",,,,1
+980,{},980,"Entry ""collective (motion verbs)""",,,,1
+981,{},981,"Entry ""cold""",,,,1
+982,{},982,"Entry ""coals (2)""",,,,1
+983,{},983,"Entry ""coals (1)""",,,,1
+984,{},984,"Entry ""clumsy""",,,,1
+985,{},985,"Entry ""cloud""",,,,1
+986,{},986,"Entry ""climb""",,,,1
+987,{},987,"Entry ""clear""",,,,1
+988,{},988,"Entry ""clavicle""",,,,1
+989,{},989,"Entry ""circle, hoop, camp circle""",,,,1
+990,{},990,"Entry ""choke""",,,,1
+991,{},991,"Entry ""chinquapin, lotus, cattail""",,,,1
+992,{},992,"Entry ""chin""",,,,1
+993,{},993,"Entry ""child > youth""",,,,1
+994,{},994,"Entry ""child > male child""",,,,1
+995,{},995,"Entry ""child > female child""",,,,1
+996,{},996,"Entry ""child > boy""",,,,1
+997,{},997,"Entry ""chew""",,,,1
+998,{},998,"Entry ""chest, breast""",,,,1
+999,{},999,"Entry ""chert, flint""",,,,1
+1000,{},1000,"Entry ""cherry, chokecherry""",,,,1
+1001,{},1001,"Entry ""chase""",,,,1
+1002,{},1002,"Entry ""catfish, bullhead""",,,,1
+1003,{},1003,"Entry ""cat""",,,,1
+1004,{},1004,"Entry ""carry > pack on back""",,,,1
+1005,{},1005,"Entry ""calm""",,,,1
+1006,{},1006,"Entry ""call, shout""",,,,1
+1007,{},1007,"Entry ""call to, invite""",,,,1
+1008,{},1008,"Entry ""call someone by name, to name""",,,,1
+1009,{},1009,"Entry ""calf of leg""",,,,1
+1010,{},1010,"Entry ""cache""",,,,1
+1011,{},1011,"Entry ""buzzard (3)""",,,,1
+1012,{},1012,"Entry ""buzzard (2)""",,,,1
+1013,{},1013,"Entry ""buzzard (1)""",,,,1
+1014,{},1014,"Entry ""buy""",,,,1
+1015,{},1015,"Entry ""buttocks (2)""",,,,1
+1016,{},1016,"Entry ""buttocks (1)""",,,,1
+1017,{},1017,"Entry ""butcher""",,,,1
+1018,{},1018,"Entry ""bury""",,,,1
+1019,{},1019,"Entry ""burst""",,,,1
+1020,{},1020,"Entry ""burn (5)""",,,,1
+1021,{},1021,"Entry ""burn (4)""",,,,1
+1022,{},1022,"Entry ""burn (3)""",,,,1
+1023,{},1023,"Entry ""burn (2), prairie fire""",,,,1
+1024,{},1024,"Entry ""burn (1)""",,,,1
+1025,{},1025,"Entry ""bungle""",,,,1
+1026,{},1026,"Entry ""bulrush, cane (plant)""",,,,1
+1027,{},1027,"Entry ""brush (vegetation)""",,,,1
+1028,{},1028,"Entry ""brother-in-law (2) wHuBr, wSiHu""",,,,1
+1029,{},1029,"Entry ""brother-in-law (1) mWiBr, mSiHu""",,,,1
+1030,{},1030,"Entry ""brother (5) BrYo""",,,,1
+1031,{},1031,"Entry ""brother (4) wBrel""",,,,1
+1032,{},1032,"Entry ""brother (3) wBrel""",,,,1
+1033,{},1033,"Entry ""brother (2) mBrel""",,,,1
+1034,{},1034,"Entry ""brother (1) mBrel""",,,,1
+1035,{},1035,"Entry ""breathe""",,,,1
+1036,{},1036,"Entry ""breast (female)""",,,,1
+1037,{},1037,"Entry ""break to small pieces""",,,,1
+1038,{},1038,"Entry ""break to pieces""",,,,1
+1039,{},1039,"Entry ""break off pieces (4)""",,,,1
+1040,{},1040,"Entry ""break off pieces (3)""",,,,1
+1041,{},1041,"Entry ""break off pieces (2)""",,,,1
+1042,{},1042,"Entry ""break off pieces (1)""",,,,1
+1043,{},1043,"Entry ""break off (3)""",,,,1
+1044,{},1044,"Entry ""break off (2)""",,,,1
+1045,{},1045,"Entry ""break off (1)""",,,,1
+1046,{},1046,"Entry ""break loose > dislocate""",,,,1
+1047,{},1047,"Entry ""break long things""",,,,1
+1048,{},1048,"Entry ""break cord > break long things""",,,,1
+1049,{},1049,"Entry ""break cord > break apart""",,,,1
+1050,{},1050,"Entry ""break cord""",,,,1
+1051,{},1051,"Entry ""break brittle things > smash, crush""",,,,1
+1052,{},1052,"Entry ""break (2)""",,,,1
+1053,{},1053,"Entry ""break (1)""",,,,1
+1054,{},1054,"Entry ""bread, cornball""",,,,1
+1055,{},1055,"Entry ""brave (3)""",,,,1
+1056,{},1056,"Entry ""brave (2)""",,,,1
+1057,{},1057,"Entry ""brave (1)""",,,,1
+1058,{},1058,"Entry ""brant""",,,,1
+1059,{},1059,"Entry ""brain (2)""",,,,1
+1060,{},1060,"Entry ""brain (1)""",,,,1
+1061,{},1061,"Entry ""box""",,,,1
+1062,{},1062,"Entry ""bow""",,,,1
+1063,{},1063,"Entry ""botch, fail, miss""",,,,1
+1064,{},1064,"Entry ""bone""",,,,1
+1065,{},1065,"Entry ""boil, cook""",,,,1
+1066,{},1066,"Entry ""body""",,,,1
+1067,{},1067,"Entry ""boat""",,,,1
+1068,{},1068,"Entry ""blue, green""",,,,1
+1069,{},1069,"Entry ""blow (3)""",,,,1
+1070,{},1070,"Entry ""blow (2)""",,,,1
+1071,{},1071,"Entry ""blow (1)""",,,,1
+1072,{},1072,"Entry ""blood""",,,,1
+1073,{},1073,"Entry ""blizzard""",,,,1
+1074,{},1074,"Entry ""blister""",,,,1
+1075,{},1075,"Entry ""blink""",,,,1
+1076,{},1076,"Entry ""blanket (2)""",,,,1
+1077,{},1077,"Entry ""blanket (1), shawl, robe""",,,,1
+1078,{},1078,"Entry ""blade, edged tool""",,,,1
+1079,{},1079,"Entry ""black > dark (2)""",,,,1
+1080,{},1080,"Entry ""black > dark (1)""",,,,1
+1081,{},1081,"Entry ""black (3)""",,,,1
+1082,{},1082,"Entry ""black (2)""",,,,1
+1083,{},1083,"Entry ""black (1)""",,,,1
+1084,{},1084,"Entry ""bitter""",,,,1
+1085,{},1085,"Entry ""bison, reddish yellow buffalo""",,,,1
+1086,{},1086,"Entry ""bison""",,,,1
+1087,{},1087,"Entry ""bird > game bird, turkey""",,,,1
+1088,{},1088,"Entry ""bird (5)""",,,,1
+1089,{},1089,"Entry ""bird (4)""",,,,1
+1090,{},1090,"Entry ""bird (3)""",,,,1
+1091,{},1091,"Entry ""bird (2)""",,,,1
+1092,{},1092,"Entry ""bird (1)""",,,,1
+1093,{},1093,"Entry ""bile (2)""",,,,1
+1094,{},1094,"Entry ""bile (1), gall""",,,,1
+1095,{},1095,"Entry ""big (2)""",,,,1
+1096,{},1096,"Entry ""big (1)""",,,,1
+1097,{},1097,"Entry ""beyond > other, across (2)""",,,,1
+1098,{},1098,"Entry ""beyond > other, across (1)""",,,,1
+1099,{},1099,"Entry ""bewitch""",,,,1
+1100,{},1100,"Entry ""between""",,,,1
+1101,{},1101,"Entry ""berry, grape""",,,,1
+1102,{},1102,"Entry ""bend > limp, be lame""",,,,1
+1103,{},1103,"Entry ""bend > fold, curl""",,,,1
+1104,{},1104,"Entry ""bend > bend back and forth""",,,,1
+1105,{},1105,"Entry ""bend (9)""",,,,1
+1106,{},1106,"Entry ""bend (8)""",,,,1
+1107,{},1107,"Entry ""bend (7)""",,,,1
+1108,{},1108,"Entry ""bend (6)""",,,,1
+1109,{},1109,"Entry ""bend (5)""",,,,1
+1110,{},1110,"Entry ""bend (4)""",,,,1
+1111,{},1111,"Entry ""bend (3)""",,,,1
+1112,{},1112,"Entry ""bend (2)""",,,,1
+1113,{},1113,"Entry ""bend (1)""",,,,1
+1114,{},1114,"Entry ""belt, sash""",,,,1
+1115,{},1115,"Entry ""belly""",,,,1
+1116,{},1116,"Entry ""belch""",,,,1
+1117,{},1117,"Entry ""behind, in back""",,,,1
+1118,{},1118,"Entry ""beg""",,,,1
+1119,{},1119,"Entry ""bee (2)""",,,,1
+1120,{},1120,"Entry ""bee (1)""",,,,1
+1121,{},1121,"Entry ""bedding, covering""",,,,1
+1122,{},1122,"Entry ""bed""",,,,1
+1123,{},1123,"Entry ""beaver""",,,,1
+1124,{},1124,"Entry ""bear > grizzly""",,,,1
+1125,{},1125,"Entry ""bear > black bear (2)""",,,,1
+1126,{},1126,"Entry ""bear > black bear (1)""",,,,1
+1127,{},1127,"Entry ""beans""",,,,1
+1128,{},1128,"Entry ""beads""",,,,1
+1129,{},1129,"Entry ""be""",,,,1
+1130,{},1130,"Entry ""bathe""",,,,1
+1131,{},1131,"Entry ""basswood, inner bark?""",,,,1
+1132,{},1132,"Entry ""basket""",,,,1
+1133,{},1133,"Entry ""base, root, stump""",,,,1
+1134,{},1134,"Entry ""bark of tree (outer)""",,,,1
+1135,{},1135,"Entry ""bare""",,,,1
+1136,{},1136,"Entry ""ball joint > shoulder""",,,,1
+1137,{},1137,"Entry ""ball""",,,,1
+1138,{},1138,"Entry ""bag, sack, container""",,,,1
+1139,{},1139,"Entry ""badger""",,,,1
+1140,{},1140,"Entry ""bad (2)""",,,,1
+1141,{},1141,"Entry ""bad (1)""",,,,1
+1142,{},1142,"Entry ""back, returned""",,,,1
+1143,{},1143,"Entry ""back""",,,,1
+1144,{},1144,"Entry ""axe""",,,,1
+1145,{},1145,"Entry ""awaken""",,,,1
+1146,{},1146,"Entry ""autumn""",,,,1
+1147,{},1147,"Entry ""aunt, father’s sister""",,,,1
+1148,{},1148,"Entry ""augmentative (2)""",,,,1
+1149,{},1149,"Entry ""augmentative (1)""",,,,1
+1150,{},1150,"Entry ""ask""",,,,1
+1151,{},1151,"Entry ""ashes (2)""",,,,1
+1152,{},1152,"Entry ""ashes (1)""",,,,1
+1153,{},1153,"Entry ""ash (tree), Fraxinus""",,,,1
+1154,{},1154,"Entry ""artichoke, edible root""",,,,1
+1155,{},1155,"Entry ""arrowleaf (Sagittaria latifolia)""",,,,1
+1156,{},1156,"Entry ""arrive there vertitive""",,,,1
+1157,{},1157,"Entry ""arrive there""",,,,1
+1158,{},1158,"Entry ""arrive here vertitive""",,,,1
+1159,{},1159,"Entry ""arrive here""",,,,1
+1160,{},1160,"Entry ""armpit""",,,,1
+1161,{},1161,"Entry ""arm""",,,,1
+1162,{},1162,"Entry ""arise (3)""",,,,1
+1163,{},1163,"Entry ""arise (2) > get up""",,,,1
+1164,{},1164,"Entry ""arise (1)""",,,,1
+1165,{},1165,"Entry ""apportative, + or - vertitive""",,,,1
+1166,{},1166,"Entry ""anus, buttocks, vagina, passage""",,,,1
+1167,{},1167,"Entry ""antelope, goat""",,,,1
+1168,{},1168,"Entry ""ancestor, chief, elder, relative""",,,,1
+1169,{},1169,"Entry ""all, intact""",,,,1
+1170,{},1170,"Entry ""alive""",,,,1
+1171,{},1171,"Entry ""ahead (2)""",,,,1
+1172,{},1172,"Entry ""ahead (1)""",,,,1
+1173,{},1173,"Entry ""again (2)""",,,,1
+1174,{},1174,"Entry ""again (1)""",,,,1
+1175,{},1175,"Entry ""adverbializer""",,,,1
+1176,{},1176,"Entry ""across > over, beyond, above""",,,,1
+1177,{},1177,"Entry ""acre""",,,,1
+1178,{},1178,"Entry ""acorn""",,,,1
+1179,{},1179,"Entry ""ache""",,,,1
+1180,{},1180,"Entry ""absolutive""",,,,1
+1181,{},1181,"Entry ""above""",,,,1
+1182,{},1182,"Entry ""Pawnee, Arikara""",,,,1
+1183,{},1183,"Entry ""Padouca""",,,,1
+1184,{},1184,"Entry ""Otoe""",,,,1
+1185,{},1185,"Entry ""Osage""",,,,1
+1186,{},1186,"Entry ""I (agt.) on You (pat.) contraction""",,,,1
+1187,{},1187,"Entry ""Englishman""",,,,1
+1188,{},1188,"Entry ""2nd singular possessor""",,,,1
+1189,{},1189,"Entry ""2nd singular patient clitic""",,,,1
+1190,{},1190,"Entry ""2nd singular disjunctive pronoun""",,,,1
+1191,{},1191,"Entry ""2nd singular actor, syncope product (allomorph)""",,,,1
+1192,{},1192,"Entry ""2nd singular actor prefix""",,,,1
+1193,{},1193,"Entry ""1st singular possessor, inalienable""",,,,1
+1194,{},1194,"Entry ""1st singular possessor""",,,,1
+1195,{},1195,"Entry ""1st singular patient (2) (clitic)""",,,,1
+1196,{},1196,"Entry ""1st singular patient (1)""",,,,1
+1197,{},1197,"Entry ""1st singular disjunctive""",,,,1
+1198,{},1198,"Entry ""1st singular actor, syncope product (allomorph)""",,,,1
+1199,{},1199,"Entry ""1st singular actor prefix (underlying)""",,,,1
+1200,{},1200,"Entry ""1st plural (exclusive?)""",,,,1
+1201,{},1201,"Entry ""1st inclusive possessor, alienable""",,,,1
+1202,{},1202,"Entry ""1st inclusive patient prefix""",,,,1
+1203,{},1203,"Entry ""1st inclusive disjunctive pronoun""",,,,1
+1204,{},1204,"Entry ""1st inclusive actor prefix""",,,,1

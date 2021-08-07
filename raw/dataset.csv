@@ -1,0 +1,2 @@
+pk,jsondata,id,name,description,markup_description,published,publisher_name,publisher_place,publisher_url,license,domain,contact,version
+1,"{""license_name"": ""Creative Commons Attribution 4.0 International License"", ""license_icon"": ""cc-by.png""}",csd,Comparative Siouan Dictionary,Comparative Siouan Dictionary,,2015-07-07,Max Planck Institute for Evolutionary Anthropology,Leipzig,http://www.eva.mpg.de,http://creativecommons.org/licenses/by/4.0/,csd.clld.org,iren.hartmann@gmail.com,1

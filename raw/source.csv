@@ -1,0 +1,126 @@
+pk,jsondata,id,name,description,markup_description,glottolog_id,google_book_search_id,bibtex_type,author,year,title,type,booktitle,editor,pages,edition,journal,school,address,url,note,number,series,volume,publisher,organization,chapter,howpublished,year_int,startpage_int,pages_int,version
+1,{},dec,RGG,Crow Dictionary1985,,,,,"Gordon, R.G.",,Crow Dictionary1985,,,,,,,,,,,,,,,,,,,,,1
+2,{},j,J,,,,,,???,,,,,,,,,,,,,,,,,,,,,,,1
+3,{},c,RTC,,,,,,"Carter, Richard T.",,,,,,,,,,,,,,,,,,,,,,,1
+4,{},ds,D&S,A dictionary of the Biloxi and Ofo languages: Accompanied with thirty-one Biloxi texts and numerous Biloxi phrases,,,,,"Dorsey, James Owen and John Reed Swanton",1912,A dictionary of the Biloxi and Ofo languages: Accompanied with thirty-one Biloxi texts and numerous Biloxi phrases,,,,,,,,,,,,,,,,,,,,,1
+5,{},ssf,JSS,(slip file),,,,,"Swanton, John R. ",,(slip file),,,,,,,,,,,,,,,,,,,,,1
+6,{},jgt,JGT,,,,,,"Good Tracks, Jimm",1992,,,,,,,,,,,,,,,,,,,,,,1
+7,{},jod,JOD,,,,,,"Dorsey, James Owen",,,,,,,,,,,,,,,,,,,,,,,1
+8,{},ks,KS,,,,,,"Shea, Kathy",,,,,,,,,,,,,,,,,,,,,,,1
+9,{},g,G,,,,,,???,,,,,,,,,,,,,,,,,,,,,,,1
+10,{},h,H,,,,,,"Hale, Horatio",,,,,,,,,,,,,,,,,,,,,,,1
+11,{},rr,RR,,,,,,"Rankin, Robert L.",,,,,,,,,,,,,,,,,,,,,,,1
+12,{},lf,LF,,,,,,"La Flesche, Francis",,,,,,,,,,,,,,,,,,,,,,,1
+13,{},sw,MAS,A vocabulary of the Omaha language,,,,,"Swetland, Mark J.",1977,A vocabulary of the Omaha language,,,,,,,,,,,,,,,,,,,,,1
+14,{},boasandswanton,B&S, Siouan (Dakota).,,,,,"Boas, Franz and Swanton, J. ",1911, Siouan (Dakota).,,,,,,,,,,,,,,,,,,,,,1
+15,{},rg,RG,,,,,,"Grazcyk, Randolph",,,,,,,,,,,,,,,,,,,,,,,1
+16,{},marsh,GM,,,,,,"Marsh, Gordon",,,,,,,,,,,,,,,,,,,,,,,1
+17,{},pas,PAS,,,,,,"Shaw, Patricia A.",,,,,,,,,,,,,,,,,,,,,,,1
+18,{},km,KM,,,,,,"Miner, Kenneth",,,,,,,,,,,,,,,,,,,,,,,1
+19,{},gg,GG,,,,,,"Gordon, R.G. and Randolph Graczyk ??",,,,,,,,,,,,,,,,,,,,,,,1
+20,{},r,SRR,???,,,,,"Riggs, S. R.",,???,,,,,,,,,,,,,,,,,,,,,1
+21,{},jgt92,JGT,,,,,,"Good Tracks, Jimm",1992,,,,,,,,,,,,,,,,,,,,,,1
+22,{},jwe,JWE,,,,,,"White Eagle, Josephine",,,,,,,,,,,,,,,,,,,,,,,1
+23,{},b,EB,A Dictionary of Teton Sioux: Lakota – English / English –  Lakhota (with consideration given to Yankton and Santee dialects),,,,,"Buechel, Fr. Eugene",1983,A Dictionary of Teton Sioux: Lakota – English / English –  Lakhota (with consideration given to Yankton and Santee dialects),,,,,,,,,,,,,,,,,,,,,1
+24,{},mr,MR,(native speaker),,,,,"Rowe, Maud McCauley Clark ",,(native speaker),,,,,,,,,,,,,,,,,,,,,1
+25,{},marino,MM,A dictionary od Winnebago: an analysis and reference grammar of the Radin lexical file,,,,,"Marino, Mary",1968,A dictionary od Winnebago: an analysis and reference grammar of the Radin lexical file,,,,,,,,,,,,,,,,,,,,,1
+26,{},flf,F&LF,The Omaha Tribe,,,,,"Fletcher, Alice C. and Francis La Flesche",1911,The Omaha Tribe,,,,,,,,,,,,,,,,,,,,,1
+27,{},lwr,LWR,,,,,,"Robinson, Lila Wistrand ",,,,,,,,,,,,,,,,,,,,,,,1
+28,{},sp,FGS,???,,,,,"Speck, F. G.",,???,,,,,,,,,,,,,,,,,,,,,1
+29,{},ss,SS,,,,,,???,,,,,,,,,,,,,,,,,,,,,,,1
+30,{},jek,JEK,,,,,,"Koontz, John E.",,,,,,,,,,,,,,,,,,,,,,,1
+31,{},ej,EJ,,,,,,"James, Eli",,,,,,,,,,,,,,,,,,,,,,,1
+32,{},sapir,ES,A Tutelo vocabulary,,,,,"Sapir, E.",1913,A Tutelo vocabulary,,,,,,,,,,,,,,,,,,,,,1
+33,{},n,N,(Tutelo informant),,,,,Nikonha ,,(Tutelo informant),,,,,,,,,,,,,,,,,,,,,1
+34,{},mrh,MRH,,,,,,"Haas, Mary R.",,,,,,,,,,,,,,,,,,,,,,,1
+35,{},ms,MS,,,,,,"Swadesh, Maurice",,,,,,,,,,,,,,,,,,,,,,,1
+36,{},jdh,JDH,,,,,,???,,,,,,,,,,,,,,,,,,,,,,,1
+37,{},mw,MW,,,,,,???,,,,,,,,,,,,,,,,,,,,,,,1
+38,{},hw,HW,,,,,,???,,,,,,,,,,,,,,,,,,,,,,,1
+39,{},swadesh,MS,,,,,,"Swadesh, Maurice",,,,,,,,,,,,,,,,,,,,,,,1
+40,{},byrd,Byrd,(historical map?),,,,,Byrd,,(historical map?),,,,,,,,,,,,,,,,,,,,,1
+41,{},lawson,JL,A new Voyage to Carolina,,,,,"Lawson, J.",1709,A new Voyage to Carolina,,,,,,,,,,,,,,,,,,,,,1
+42,{},wm,WM,"Grammar and dictionary of the language of the Hidatsa (Minnetarees, Grosventres of the Missouri)",,,,,"Matthews, W.",1873-4,"Grammar and dictionary of the language of the Hidatsa (Minnetarees, Grosventres of the Missouri)",,,,,,,,,,,,,,,,,,,,,1
+43,{},l,L,,,,,,"Lowie, Robert H.",,,,,,,,,,,,,,,,,,,,,,,1
+44,{},frachtenberg,LJF,Coos Texts,,,,,"Frachtenberg, Leo Joachim",1913,Coos Texts,,,,,,,,,,,,,,,,,,,,,1
+45,{},lk,WL,Winnebago grammar,,,,,"Lipkind, William",1945,Winnebago grammar,,,,,,,,,,,,,,,,,,,,,1
+46,{},hale,HH,,,,,,"Hale, Horatio",,,,,,,,,,,,,,,,,,,,,,,1
+47,{},handv,H&V,,,,,,"Harris, Zellig and Florence or Cherles",,,,,,,,,,,,,,,,,,,,,,,1
+48,{},dor,DOR,,,,,,???,,,,,,,,,,,,,,,,,,,,,,,1
+49,{},om,OM,,,,,,???,,,,,,,,,,,,,,,,,,,,,,,1
+50,{},fs,FS,,,,,,???,,,,,,,,,,,,,,,,,,,,,,,1
+51,{},gro,GRO,,,,,,???,,,,,,,,,,,,,,,,,,,,,,,1
+52,{},bandd,B&D,Dakota Grammar,,,,,"Boas, Franz and Deloria, Ella",1941,Dakota Grammar,,,,,,,,,,,,,,,,,,,,,1
+53,{},voorhis,PV,,,,,,"Voorhis, Paul",,,,,,,,,,,,,,,,,,,,,,,1
+54,{},art,ART,,,,,,"Taylor, Allan R.",,,,,,,,,,,,,,,,,,,,,,,1
+55,{},kennard,EK,Mandan grammar,,,,,"Kennard, Edward",1936,Mandan grammar,,,,,,,,,,,,,,,,,,,,,1
+56,{},hewitt,JNBH,,,,,,"Hewitt, John Napoleon Brinton",,,,,,,,,,,,,,,,,,,,,,,1
+57,{},fontaine,F,(Saponi word list),,,,,Fontaine,,(Saponi word list),,,,,,,,,,,,,,,,,,,,,1
+58,{},say,SAY,,,,,,"Say, ???",,,,,,,,,,,,,,,,,,,,,,,1
+59,{},w,W,,,,,,???,,,,,,,,,,,,,,,,,,,,,,,1
+60,{},v,PV,,,,,,"Voorhis, Paul",,,,,,,,,,,,,,,,,,,,,,,1
+61,{},haas,MRH,,,,,,"Haas, Mary R.",,,,,,,,,,,,,,,,,,,,,,,1
+62,{},cfvoegelinpersonalnotes,CFV,(personal notes),,,,,"Voegelin, C. F.",,(personal notes),,,,,,,,,,,,,,,,,,,,,1
+63,{},drummond,DR,(Stoney Texts),,,,,"Drummond, V.",,(Stoney Texts),,,,,,,,,,,,,,,,,,,,,1
+64,{},delorianotes,ED,(notes),,,,,"Deloria, Ella",,(notes),,,,,,,,,,,,,,,,,,,,,1
+65,{},awj,AWJ,,,,,,"Jones, A. Wesley ",,,,,,,,,,,,,,,,,,,,,,,1
+66,{},kr,KR,,,,,,???,,,,,,,,,,,,,,,,,,,,,,,1
+67,{},cs,CS,,,,,,???,,,,,,,,,,,,,,,,,,,,,,,1
+68,{},lipkind,WL,Winnebago Grammar,,,,,"Lipkind, William",1945,Winnebago Grammar,,,,,,,,,,,,,,,,,,,,,1
+69,{},eb,EB,A Dictionary of Teton Sioux: Lakota – English / English –  Lakhota (with consideration given to Yankton and Santee dialects),,,,,"Buechel, Fr. Eugene",1983,A Dictionary of Teton Sioux: Lakota – English / English –  Lakhota (with consideration given to Yankton and Santee dialects),,,,,,,,,,,,,,,,,,,,,1
+70,{},d,D,???,,,,,"Deloria, Ella",,???,,,,,,,,,,,,,,,,,,,,,1
+71,{},riggs,SRR,???,,,,,"Riggs, S. R.",,???,,,,,,,,,,,,,,,,,,,,,1
+72,{},hwm,HWM,Ethnography and philology of the Hidatsa Indians,,,,,"Matthews, Washington",1877,Ethnography and philology of the Hidatsa Indians,,,,,,,,,,,,,,,,,,,,,1
+73,{},asg,ASG,Grammatical sketch of the Catawba language,,,,,"Gatschet, Albert S.",1900,Grammatical sketch of the Catawba language,,,,,,,,,,,,,,,,,,,,,1
+74,{},srr,SRR,,,,,,"Riggs, S. R.",,,,,,,,,,,,,,,,,,,,,,,1
+75,{},dsf,DSF,,,,,,???,,,,,,,,,,,,,,,,,,,,,,,1
+76,{},headley,RKH,The origin and distribution of the Siouan speaking tribes,,,,,"Headley, R. K., Jr.",1971,The origin and distribution of the Siouan speaking tribes,,,,,,,,,,,,,,,,,,,,,1
+77,{},gilmore,MRG,Uses of plants by the Indians of the Missouri River region,,,,,"Gilmore, Melvin R.",1919,Uses of plants by the Indians of the Missouri River region,,,,,,,,,,,,,,,,,,,,,1
+78,{},rtc,RTC,,,,,,"Carter, Richard T.",,,,,,,,,,,,,,,,,,,,,,,1
+79,{},rh,RH,???,,,,,"Hollow, R. C.",,???,,,,,,,,,,,,,,,,,,,,,1
+80,{},mjs,MJS,???,,,,,"Swetland, Mark J.",,???,,,,,,,,,,,,,,,,,,,,,1
+81,{},gmsf,GMsf,(slip file),,,,,"Marsh, Gordon",,(slip file),,,,,,,,,,,,,,,,,,,,,1
+82,{},hh,HH,,,,,,"Hale, Horatio",,,,,,,,,,,,,,,,,,,,,,,1
+83,{},pje,PJE,,,,,,"Einaudi, Paula Ferris",,,,,,,,,,,,,,,,,,,,,,,1
+84,{},sfs,SFS,,,,,,???,,,,,,,,,,,,,,,,,,,,,,,1
+85,{},whitman,WW,???,,,,,"Whitman, W.",,???,,,,,,,,,,,,,,,,,,,,,1
+86,{},landc,L&C,,,,,,Lewis & Clark,,,,,,,,,,,,,,,,,,,,,,,1
+87,{},oliverio,GO,???,,,,,"Oliverio, G. R. M.",,???,,,,,,,,,,,,,,,,,,,,,1
+88,{},einaudi,PFE, A Grammar of Biloxi,,,,,"Einaudi, Paula Ferris",1976, A Grammar of Biloxi,,,,,,,,,,,,,,,,,,,,,1
+89,{},will,Will,,,,,,???,,,,,,,,,,,,,,,,,,,,,,,1
+90,{},vegreville,RV,,,,,,"Vegreville, Rev.",,,,,,,,,,,,,,,,,,,,,,,1
+91,{},gordon,RGG,,,,,,"Gordon, R.G.",,,,,,,,,,,,,,,,,,,,,,,1
+92,{},pd,PD,???,,,,,"Parks, Douglas and Raymond J. Demallie",,???,,,,,,,,,,,,,,,,,,,,,1
+93,{},lur,NOL,,,,,,"Lurie, Nancy?",,,,,,,,,,,,,,,,,,,,,,,1
+94,{},rs,RS,,,,,,???,,,,,,,,,,,,,,,,,,,,,,,1
+95,{},stabler,EST,(native speaker),,,,,"Stabler, Elizabeth",,(native speaker),,,,,,,,,,,,,,,,,,,,,1
+96,{},jodcnaevi,JOD,???,,,,,"Dorsey, James Owen",,???,,,,,,,,,,,,,,,,,,,,,1
+97,{},hv,HV,,,,,,???,,,,,,,,,,,,,,,,,,,,,,,1
+98,{},ham,HAM,,,,,,"Hamilton, William",,,,,,,,,,,,,,,,,,,,,,,1
+99,{},dsr,DSR,,,,,,"Rood, David S.",,,,,,,,,,,,,,,,,,,,,,,1
+100,{},pv,PV,,,,,,"Voorhis, Paul",,,,,,,,,,,,,,,,,,,,,,,1
+101,{},dorseyvocabulary,JODv,(vocabulary),,,,,"Dorsey, James Owen",,(vocabulary),,,,,,,,,,,,,,,,,,,,,1
+102,{},rc,RTC,,,,,,"Carter, Richard T.",,,,,,,,,,,,,,,,,,,,,,,1
+103,{},lr,LWR,,,,,,"Robinson, Lila Wistrand ",,,,,,,,,,,,,,,,,,,,,,,1
+104,{},spandschaeffer,Sp&S,Catawba kinship and social organization with a resume of Tutelo kinship terms,,,,,"Speck, F. G. and C. E. Schaeffer",1942,Catawba kinship and social organization with a resume of Tutelo kinship terms,,,,,,,,,,,,,,,,,,,,,1
+105,{},jodslipfile,JOD,slip file,,,,,"Dorsey, James Owen",,slip file,,,,,,,,,,,,,,,,,,,,,1
+106,{},rudes,BAR,,,,,,"Rudes, B. A.",,,,,,,,,,,,,,,,,,,,,,,1
+107,{},susman,AS,The accentual system of Winnebago,,,,,"Susman, Amelia",1943,The accentual system of Winnebago,,,,,,,,,,,,,,,,,,,,,1
+108,{},mithun,MMI,,,,,,"Mithun, Marianne",,,,,,,,,,,,,,,,,,,,,,,1
+109,{},cq,CQ,,,,,,"Quintero, Carolyn",,,,,,,,,,,,,,,,,,,,,,,1
+110,{},bt,BT,,,,,,???,,,,,,,,,,,,,,,,,,,,,,,1
+111,{},hahn,FH,,,,,,"Hahn, Frida",,,,,,,,,,,,,,,,,,,,,,,1
+112,{},laurie,Laurie,???,,,,,"Laurie, ?",,???,,,,,,,,,,,,,,,,,,,,,1
+113,{},huronsmith,HS,,,,,,"Smith, Huron",,,,,,,,,,,,,,,,,,,,,,,1
+114,{},tb,TB,(texts),,,,,"Buechel, Fr. Eugene",,(texts),,,,,,,,,,,,,,,,,,,,,1
+115,{},bristow,BR,(a collaborator of Carolyn Quintero (deceased)),,,,,"Bristow, ???",,(a collaborator of Carolyn Quintero (deceased)),,,,,,,,,,,,,,,,,,,,,1
+116,{},glwilson,GLW,,,,,,"Wilson, G. L.",,,,,,,,,,,,,,,,,,,,,,,1
+117,{},mooney,JM,"The ghost-dance religion, and the Sioux outbreak of 1890",,,,,"Mooney, J.",1891,"The ghost-dance religion, and the Sioux outbreak of 1890",,,,,,,,,,,,,,,,,,,,,1
+118,{},keith,SK,(native speaker),,,,,"Keith, Sydney ",,(native speaker),,,,,,,,,,,,,,,,,,,,,1
+119,{},vc,VC,(native speaker),,,,,"Catches, Violet",,(native speaker),,,,,,,,,,,,,,,,,,,,,1
+120,{},gallatin,Gallatin,,,,,,Gallatin,,,,,,,,,,,,,,,,,,,,,,,1
+121,{},wdr,WDR,,,,,,"de Reuse, Willem",,,,,,,,,,,,,,,,,,,,,,,1
+122,{},mrg,MRG,,,,,,"Gilmore, Melvin R.",,,,,,,,,,,,,,,,,,,,,,,1
+123,{},pg,PG,,,,,,???,,,,,,,,,,,,,,,,,,,,,,,1
+124,{},williamson,JPW,An English-Dakota dictionary,,,,,"Williamson, J. P.",1902,An English-Dakota dictionary,,,,,,,,,,,,,,,,,,,,,1
+125,{},marten,AEM,The morphophonemics of the Winnebago verbal,,,,,"Marten, A. E.",1964,The morphophonemics of the Winnebago verbal,,,,,,,,,,,,,,,,,,,,,1
