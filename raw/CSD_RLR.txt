@@ -1749,7 +1749,8 @@ for another |th| set.
 \pcaso
 \ca
 \wo
-\othlgs Cf. Choc. |iškiš| ‘anus’; Tunica |-ški| ‘anus’
+\othlgs Choc. |iškiš| ‘anus’
+\othlgs Tunica |-ški| ‘anus’
 \com MA should have {s}, DA should have a reflex of {š}. MA looks like
 it incorporates a fused absolutive. The DH forms are not directly
 reconcilable with a single proto form. PSI {*ų > *ǫ} in DH, while PSI
@@ -2650,7 +2651,7 @@ be certain.
 \pcaso
 \ca
 \wo
-\othlgs Cf. Yuchi |nehe, dzi, ši, ti| LB(?)
+\othlgs Yuchi |nehe, dzi, ši, ti| LB?
 \com TU |kuweya hukteⁿ´heⁿ| is most likely not cognate.  A partial analog of
 the OF form would have to be assumed, with |-hę| derived from |*-hi| with
 nasalization from the preceding vowel.  In fact, TU |ę| virtually always
@@ -3030,8 +3031,8 @@ class.
 \pcaso
 \ca
 \wo
-\othlgs Arikara |čiNIhnáakuʔ| DRP-3; cf. Dhegiha, check Pawnee
-\othlgs Proto Musk. *sinap(o) ‘ash’
+\othlgs Arikara |čiNIhnáakuʔ| DRP-3
+\othlgs Proto Musk. |*sinap(o)| ‘ash’
 \com There are many irregularities in this set which will ultimately require
 explanation.  The initial sequence |pC| in MVS ordinarily implies an earlier
 |*wi-C| animate or a |*wa-C| absolutive form.  The prefix in CR/HI would then
@@ -4616,7 +4617,7 @@ presence in the |š|-grade, cf. ‘bad (1)’.
 \pcaso
 \ca
 \wo
-\othlgs Cf. PUA 18 |*huna| ‘badger’ Miller.  Cf. UA ‘bear’ RR.
+\othlgs PUA |*huna| ‘badger’ PUA#18 Miller.  Cf. UA ‘bear’ RR.
 \com Cf.  ‘fox’. ‘Skunk’ and ‘fox’ seem linked (perhaps via their digging
 habits?) not only in MRS but also in PSE, so that preaspiration in CR/HI
 ‘skunk’ could be due to contamination from ‘fox’.  WI |ɣ| is unexplained.
@@ -4733,7 +4734,7 @@ preserved length in CR.  Cf. also ‘skunk’.
 \caso KS
 \ca_org pąʔ ‘hold, contain, be full of’ KS
 \wo
-\othlgs Cf. Proto-Keresan |*pâ•ni| ‘bag’ Miller + Davis, IJAL 29:324
+\othlgs Proto-Keresan |*pâ•ni| ‘bag’ Miller + Davis, IJAL 29:324
 \com Lack of nasalization in the MA nouns is problematic.  The CA form
 suggests a verb-noun pair, in which case the PSI noun might be {*wapą́•he}.
 The attested and reconstructed aspirate implies a (now missing) initial
@@ -5155,7 +5156,7 @@ comparing ‘shoulder’, q.v.
 \caso Sp-110 (?)
 \ca_org səráhę́ʔ ‘husked’ Sp-110 (?)
 \wo
-\othlgs Proto Muskogean |*xala/o-|.
+\othlgs Proto-Muskogean |*xala/o-|
 
 \lx bark of tree (outer)
 \ps noun
@@ -5504,11 +5505,11 @@ CA form may help explain the anomaly, as it suggests an old compound:  PSI
 \wome kettle
 \woso Lawson (?)
 \wo_org †tusiwą “Tooseawau” ‘kettle’ Lawson (?)
-\othlgs Cf. Yuchi |y’ǫt’ašk’a| ‘post oak’ Crawford
+\othlgs Yuchi |y’ǫt’ašk’a| ‘post oak’ Crawford
 \othlgs Creek |tcoska| ‘white oak’
 \othlgs Alabama |tcisha| ‘post oak’
-\othlgs Hitchiti |tciski| ‘white oak’ (JRS)
-\othlgs Tunica |čuhki| ‘oak’ (MRH)
+\othlgs Hitchiti |tciski| ‘white oak’ JRS
+\othlgs Tunica |čuhki| ‘oak’ MRH
 \com A widespread southeastern root.  Baskets in this area were often made
 of white oak splints, hence the connection with that meaning; TU clearly
 means “basket tree”.  The OF word also contains a root for ‘bag, sack, container’,
@@ -6121,7 +6122,7 @@ not all forms. MA and DA have |#o-|, other languages show |ų|.  The word appear
 \pcaso
 \ca
 \wo
-\othlgs Cf. Comanche |wasape|.
+\othlgs Comanche |wasape|
 \com This term, meaning ‘something black’ or ‘the black one’ (with a
 diminutive suffix in Stoney), replaces the presumably earlier reflexes of
 |*wi-hų́te, *wa-hų́te|, q.v.  The euphemism could have spread via either
@@ -6207,7 +6208,8 @@ languages also use (different) euphemisms for ‘bear’.
 \ca
 \wo
 \othlgs Cf. Miller PUA #30 ‘bear’ |*pos, poc| NT |vóxi|; My |hoóso| (cf.
-Sp. OSO JEK)  Cr. |huúceʔe|; Hch |húuce|.  Cf. UA |huna| ‘badger’.
+Sp. OSO JEK)  Cr. |huúceʔe|; Hch |húuce|.  Cf. PUA |*huna| ‘badger’ PUA#18 Miller
+
 \com Given that ‘bear > black bear (1)’, meaning ‘(little) black one’ is found in
 those languages that lack reflexes of |*wi-hų́te, *wa-hų́te|, this is most
 likely the original ‘black bear’ term.  The DA term is not found in any of
@@ -6449,7 +6451,7 @@ terms that require postulation of a series of post-aspirated stops in PSI.
 \caso Gallatin
 \ca_org †čapi “chaupee” ‘beaver’ Gallatin
 \wo
-\othlgs Cf. Yuchi |šapa| ‘fox’ LB-23
+\othlgs Yuchi |šapa| ‘fox’ LB-23
 \com CR/HI and CH/OP/TU disagree on vowel length for this form. BI {táma}
 ‘beaver’ DS-269b may be a borrowing from Proto-Eastern-Algonquian
 {*tema•xkwe•wa} ‘beaver, little severer of trees’ as reconstructed by
@@ -6721,8 +6723,10 @@ This is a very common derivational pattern.  The |*ʔ| in the underlying
 \pcaso
 \ca
 \wo
-\othlgs Cf. PUA #33 |*sek, cek|. Miller RR: N.B. Shawnee |heemo| (pl. |heemoki|)
-‘bee’ Voegl.-456; Miami amawia ‘bee’; Kickapoo aamoa ‘bee’ Voorhis-6.
+\othlgs PUA |*sek, cek| PUA#33 Miller
+\othlgs Shawnee |heemo| (pl. |heemoki|) ‘bee’ Voegl.-456
+\othlgs Miami |amawia| ‘bee’
+\othlgs Kickapoo |aamoa| ‘bee’ Voorhis-6
 \com Cf. Shawnee |heemo| (pl.  |heemoki|) ‘bee’ Voegl.-456; Miami |amawia|
 ‘bee’; Kickapoo |aamoa| ‘bee’ Voorhis-6.  ‘bee’.  Cf.  also Swadesh 44(?)
 |*mə| or |*muu|, Atakapa |min, muŋ|; Chitimacha |hihmu| meaning ‘bee’.
@@ -6921,7 +6925,7 @@ OVS and MRS do not agree.
 \pcaso
 \ca
 \wo
-\othlgs JEK: Cf. PUA #13 *ta ‘ask’. Miller.
+\othlgs PUA |*ta| ‘ask’ PUA#13 Miller.
 \com The QU transcription was done from a noisy tape and may be incorrect.
 QU |watá| would be expected.  BI suggests final |*-he|, if it is cognate.
 
@@ -9061,8 +9065,9 @@ accounted for; the form |hą́hse| appears to be a compound of |hą́š-| with |
 \pcaso
 \ca
 \wo
-\othlgs JEK: Cf. Swadesh 44(?) |*mə| or |*muu?| Atakapa |min, muŋ|; Chitimacha
-|hihmu| both meaning ‘bee’.
+\othlgs Swadesh 44(?) |*mə| or |*muu?| https://www.journals.uchicago.edu/doi/10.1086/463901
+\othlgs Atakapa |min, muŋ| ‘bee’ https://www.journals.uchicago.edu/doi/10.1086/463901
+\othlgs Chitimacha |hihmu| ‘bee’ https://www.journals.uchicago.edu/doi/10.1086/463901
 \com Sorcery was typically accomplished by projectiles, often described as
 ‘humming’ during their progress through the air.  Hence, the connection with
 ‘bee (2)’.  The DH form, if cognate, would derive from |*krǫ́ɣe|, a dissimilation
@@ -9984,7 +9989,7 @@ matches, so this term may represent an innovation that diffused regionally.
 \pcaso
 \ca
 \wo
-\othlgs Powhatan |monnagh, monassaw| Strachey ‘turkey’
+\othlgs Powhatan |monnagh, monassaw| ‘turkey’ Strachey http://www.evolpub.com/interactiveALR/database/pdfs/Vol._08_Powhatan.pdf
 \com These terms seem to be derived from {*(a)wą•-} ‘large game bird’.
 This root is better preserved in various DH compounds, v. ‘crow > blackbird’. Cf.
 also ‘dove, pigeon’.
@@ -10549,8 +10554,9 @@ The medial {-c-} in PCH probably reflects a reduplicated form
 \caso FS
 \ca_org widé• FS
 \wo
-\othlgs Yuchi |wedi| ‘bovine’; |wadĩga| ‘bison’; |wedza| ‘hog’ (LB). Ballard
-speculates we- ‘non-Yuchi animate’.
+\othlgs Yuchi |wedi| ‘bovine’ LB
+\othlgs Yuchi |wadĩga| ‘bison’ LB
+\othlgs Yuchi |wedza| ‘hog’ LB
 \com Cf. also the well known resemblance with Yuchi |wedi| ‘bovine’; |wadįga|
 ‘bison’; |wedza| ‘hog’ (LB).  Ballard speculates |we-| refers to ‘non-Yuchi
 animate’.  Nasal vowel in MA is not regular here (but cf.  the
@@ -11043,7 +11049,7 @@ cluster.)
 \ca
 \wo
 \othlgs Yuchi |ʔíspi| LB
-\othlgs Cf. PUA #50 |*sakwa| ‘blue’ (v. ‘black’) Miller.
+\othlgs PUA |*sakwa| ‘blue’ (v. ‘black’) PUA#50 Miller.
 \com Cf. ‘black (2)’, ‘black (3)’.  The various forms of ‘black’ are assumed to
 derive from four or five proto-forms, related by both fricative symbolism and
 vocalic ablaut, with further complication due to contamination and analogy.
@@ -11968,7 +11974,7 @@ CR |hua| is the regular development.
 \ca_org i•t ‘blood’ FS
 \wo
 \othlgs Yuchi |weʔí| LB
-\othlgs PUA #21 |*ʔet|, |*ʔew| ‘blood’ Miller
+\othlgs PUA |*ʔet, *ʔew| PUA#47a Miller
 \com This appears to be a noun-verb pair, PSI {*ʔí•re} ‘bleed’,
 {*wa-ʔí•re} ‘what is bled = blood’.  In the southeastern languages we
 seem to have different means of eliminating the vowel cluster; epenthesis of
@@ -12397,7 +12403,7 @@ same root but lacks the root extension.
 \pcaso
 \ca
 \wo
-\othlgs Cf. Choctaw/Chickasaw |tóhbi| ‘light colored, white’ RR
+\othlgs Choctaw/Chickasaw |tóhbi| ‘light colored, white’ RR
 \com The |-hV| of DH color terms (e.g. ‘yellow’, ‘white (1)’, and ‘yellow > brown’) is
 not inherited from the proto-language.  It appears to be an intensifier and
 may result from vowel assimilation affecting the DH particle |-hi| ‘very’.
@@ -12518,7 +12524,7 @@ reflect ‘vine’ q.v. (in the extended sense ‘grass color, ripe’).
 \wooo Watt
 \wome boat
 \wo_org †wat ‘boat’ “Watt”
-\othlgs |*meʔteko:ši| ‘dug-out canoe’ Aubin-1231
+\othlgs Proto-Algonquian |*meʔteko:ši| ‘dug-out canoe’ Aubin-1231
 \com There are many phonological problems in this set: (1) Nasal vowels in
 DH are not accounted for. (2) The |hati| of the SE languages is very
 difficult to relate to central Siouan. (3) QU nasality is unexpected, since
@@ -12875,9 +12881,10 @@ meaning ‘boiling’ have compounded |ua| with ‘water’.
 \pcaso
 \ca
 \wo
-\othlgs PUA#52, |ʔo, oho| ‘bone’ Miller.  Cf. Proto Musk |*foni| < |**xwoni|
-‘bone’, also Mikasuki ʻahii ‘tree’. PUA #52 *ʔo, oho ‘bone’
-Miller. PUA #64 *hu ‘tree, wood’ Miller. Cf. ‘bone’.
+\othlgs PUA#52, |ʔo, oho| ‘bone’ Miller.
+\othlgs Proto Musk |*foni| < |**xwoni| ‘bone’
+\othlgs Mikasuki |ʻahii| ‘tree’
+\othlgs PUA#64 |*hu| ‘tree, wood’ Miller
 \com This form is composed of |*wa-| ‘absolutive’ and the widespread root
 |hú•(-re)| ‘tree, bone, leg, stalk, stem, trunk’, q.v.  Typically, the
 absolutive prefix |wa-| narrows the meaning to ‘bone’. However, as a
@@ -13090,10 +13097,13 @@ not found.
 \pcaso
 \ca
 \wo
-\othlgs JEK: Cf. Algonquian: PA |*me’tekw-a| ‘wood, an.’; Menominee:
-|(ne)-mɛɛ’tek| ‘my bow’; Fox: |méytä| ‘bow’; Sh.: |mytekw-a
-~ meytekwa| ‘bow’; Miami: |mitékopa| ‘bow’; Chey.:
-|ma’tahke| ‘bow, archaic term’, also Kickapoo: |mehteeha| ‘bow’ Voorhis-65.
+\othlgs Proto-Algonquian |*me’tekw-a| ‘wood, an.’
+\othlgs Menominee: |(ne)-mɛɛ’tek| ‘my bow’
+\othlgs Fox: |méytä| ‘bow’
+\othlgs Sh.: |mytekw-a ~ meytekwa| ‘bow’
+\othlgs Miami: |mitékopa| ‘bow’
+\othlgs Chey.: |ma’tahke| ‘bow, archaic term’
+\othlgs Kickapoo: |mehteeha| ‘bow’ Voorhis-65.
 \com Terms with initial |mą-| may contain the root for ‘arrow’, q.v.  All
 terms are ultimately borrowed directly or indirectly from Algonquian
 languages. The Dakotan term has lost its initial |m-|, perhaps because with
@@ -13490,8 +13500,6 @@ an old compound of PSI |*rą•| (used with numerous upper body parts) and
 \ofoo óⁿfạna
 \ofme duck
 \ofso DS-328a
-\bi_check source_confirmed
-\bisoo oⁿ́fạna
 \of_org †ą́fəną “óⁿfạna” ‘duck’ DS-328a
 \tu †mąne•asą•
 \tuoo manēasān
@@ -13865,7 +13873,7 @@ reflects the preaspiration.
 \pcaso
 \ca
 \wo
-\othlgs RR: Cf. Choctaw and Chickasaw |paska |‘bread’, |palaska| ‘bake’.
+\othlgs Choctaw and Chickasaw |paska| ‘bread’, |palaska| ‘bake’.
 \com Forms with the instrumental {*-Wo-} refer to the swelling or rising
 of dough and so may postdate contact.  Cf. Choctaw and Chickasaw |paska|
 ‘bread’, |palaska| ‘bake’.  Initial syllable accent and restricted
@@ -16346,7 +16354,8 @@ few cognates.
 \ya
 \sa
 \st
-\sv ás- ~ azé
+\sv
+\svoo ás- ~ azé
 \svme breast
 \svso PAS
 \sv_org ás- ~ azé ‘breast’ PAS
@@ -17899,7 +17908,8 @@ root like |-ore-|.  The |ʔ| is intrusive in such forms.
 \stoo ʕų́
 \stso PAS
 \st_org ʕų́ PAS
-\sv ɣú ~ ɣų́
+\sv
+\svoo ɣú ~ ɣų́
 \svso PAS
 \sv_org ɣú ~ ɣų́ PAS
 \pwc *Ra•xú
@@ -19253,7 +19263,7 @@ this appears to be a nominalization from |xe| ‘dig, bury’.
 \pcaso
 \ca
 \wo
-\othlgs Yuchi, YU |ti| (LB) ‘name’
+\othlgs Yuchi |ti| ‘name’ LB
 \com Cf. ‘name’, the related noun for a related fuller set.  Several
 languages apparently compound (contract?) the noun, q.v., with a verb meaning
 variously ‘call by name, speak aloud, read (aloud)’.  This is transparent in
@@ -23133,7 +23143,7 @@ initial vowels to differ here.
 \pcaso
 \ca
 \wo
-\othlgs JEK: Proto UA |*to| ‘copulate’, Miller PUA#100.
+\othlgs PUA#100 |*to| ‘copulate’, Miller PUA#100.
 \com Marsh always writes aspiration in CH.  Here he writes only “t”,
 presumably an allophone of |d|. At an earlier stage the vast majority and
 probably all of the PMV |*rh| clusters go back to a disyllable, v. ‘arrive here’ and other examples.  The earlier shape of this root is not easily
@@ -23901,10 +23911,10 @@ distinct but related meaning.
 \ca
 \wo
 \othlgs Chickasaw |tanči| ‘corn’
-\othlgs Choctaw |tą:či| (RR)
-\othlgs Mobilian |tanči| (Crawford)
-\othlgs Kiowa |ʻa•thán| ‘corn tassel’ (LJW)
-\othlgs Kiowa |é•thâl| ‘corn’ (LJW)
+\othlgs Choctaw |tą:či| RR
+\othlgs Mobilian |tanči| Crawford
+\othlgs Kiowa |ʻa•thán| ‘corn tassel’ LJW
+\othlgs Kiowa |é•thâl| ‘corn’ LJW
 \othlgs Proto Keresan |*dâ•ni| ‘squash’ (Miller and Davis, IJAL 29, p.321).
 \com Cf. ‘cucurbit (1)’ for related terms and a fuller lexical set. As with
 the other Siouan terms for ‘corn’, we are dealing with borrowing here. This
@@ -24174,9 +24184,8 @@ matches DH and CH/WI words more closely.
 \pcaso
 \ca
 \wo
-\othlgs Cf. Proto-North-Caddoan |*wasa•| ‘cottonwood’ ART; Arapaho
-|hé:3ne:béxo| ‘cottonwood’ Salzmann, 1983, 70. (|béxo| = a medial meaning
-‘wood’)
+\othlgs Proto-North-Caddoan |*wasa•| ‘cottonwood’ ART
+\othlgs Arapaho |hé:3ne:béxo| ‘cottonwood’ Salzmann, 1983, 70. (|béxo| = a medial meaning ‘wood’)
 \com CR |báhkuhpa| ‘cotton, cottonwood’ (GG-25) and HI |wáhku| , |máhku|
 ‘cottonwood’ reflect PCH |*wahku|. The PCH form is potentially the result of
 rightward vowel exchange, implying the existence of an earlier |**wuhka|.
@@ -24714,7 +24723,9 @@ prefix ‘on’, or it may be a separate etymon.
 \pcaso
 \ca
 \wo
-\othlgs PUA #38 |*poko| ‘berry’, CM |poko-pi|; SP |poko-ⁿ| Miller, 1967
+\othlgs PUA#38 |*poko| ‘berry’ Miller 1967
+\othlgs Comanche |poko-pi| ‘berry’ Miller 1967
+\othlgs Southern Paiute |poko-ⁿ| ‘berry’ Miller 1967
 \othlgs Shawnee: |hotehimi| ‘strawberry’ Voegelin
 \com Cf. ‘hawthorn, black’.  This set is too poorly attested to insure a
 secure reconstruction, although the berry is fairly widespread and native to
@@ -28260,9 +28271,8 @@ expressions suggests that this hypothesis bears further investigation.
 \ca_org wide• ‘cow’ FS
 \wo
 \othlgs Yuchi: |weʔǰʌ̨| LB
-\othlgs Cf. PUA #123 |*te, *tek| ‘deer’, Miller
-\othlgs Cf. Proto Keresan |*dya´n’é| Miller + Davis, IJAL
-2 9:321
+\othlgs PUA#123 |*te, *tek| ‘deer’, Miller
+\othlgs Proto Keresan |*dya´n’é| Miller + Davis, IJAL 2 9:321
 
 \lx defecate, dung (1)
 \ps
@@ -30523,8 +30533,10 @@ languages.
 \pcaso
 \ca
 \wo
-\othlgs W169 |*t-qé|; M-58:112 |*tʔéhi|
-\othlgs PUA #131 |*te| ‘die’; #133 |*ʔe| ‘die’ Miller
+\othlgs W#169 |*t-qé| https://www.jstor.org/stable/662643
+\othlgs PUA#58 |*tʔéhi| M-58:112
+\othlgs PUA#131 |*te| ‘die’ Miller
+\othlgs PUA#133 |*ʔe| ‘die’ Miller
 \com In OVS the set consisting OF |#Ch| : BI |#C| is from proto-OVS |*Ch| <
 PSI |*hC|, while the set consisting of OF |#əCh| : BI |C̣| is from PSI
 |*Cʔ|. There is, of course, no direct evidence within OVS for the
@@ -31649,8 +31661,11 @@ treat {*-ihe}, i.e. > {-ia}. HI {-e•} suggests that {*-ehe} and
 \caso KS
 \ca_org itúsi ‘dove’ KS
 \wo
-\othlgs |orí:teʔ|; Oneida |oli:teʔ|; Huron |oritley|; Tusc. |urí:ʔneʔ|,
-Mithun p. 268. Proto Keresan |*hú•ʔù•ga| Miller + Davis, IJAL 29:322
+\othlgs Mohawk |orí:teʔ|;
+\othlgs Oneida |oli:teʔ|
+\othlgs Huron |oritley|
+\othlgs Tusc. |urí:ʔneʔ|, Mithun p. 268
+\othlgs Proto Keresan |*hú•ʔù•ga| Miller + Davis, IJAL 29:322
 \com HI shows rightward vowel exchange of {u}.  BI may show traces of an
 older root without |-ka|, or it may not be properly cognate.  OVS argues for
 PSI |*wayú•t-ka|, while MVS argues for PSI |*warú•t-ka|. MA |wráwit| ‘dove,
@@ -33928,8 +33943,7 @@ uncertain. {*nixíde} is the expected form.
 \caso FS
 \ca_org mánu• ‘ground’ FS
 \wo
-\othlgs RR: PA |*-a:meHk-| (medial), |*-a:meHkw-| (noun final) Aubin-28
-(from Go.)
+\othlgs PA |*-a:meHk-| (medial), |*-a:meHkw-| (noun final) Aubin-28 (from Go.)
 \com Phonetically similar forms are found in Algonquian, Caddoan, Iroquoian,
 Hokan, etc.  The PSI post-accentual consonant is difficult to determine.
 Several subgroups suggest {-r}, while only MVS shows clear reflexes of
@@ -34074,7 +34088,8 @@ PDA |*h| is unexplained.  Cf. ‘mud, dirt, earth’.
 \pca
 \pcaso
 \ca
-\wo Eraute (?) 
+\wo
+\wooo Eraute (?) 
 \woso Lawson
 \wo_org Eraute (?) Lawson
 
@@ -34555,7 +34570,8 @@ an OVS dialect. No actual PSI term for ‘eight’ is currently reconstructible.
 \pcaso
 \ca
 \wo
-\othlgs Yuchi: |ʔʌ̨tšu|, cf. |ʔʌ̨khi| ‘arm’
+\othlgs Yuchi: |ʔʌ̨tšu|
+\othlgs Yuchi |ʔʌ̨khi| ‘arm’
 \othlgs Atakapa |est| ‘elbow’ Swadesh via JEK
 \com The initial |i-| is presumably the inalienable possession prefix.
 The BI forms with |-t-u| are the reflex of a compound of |įstódi| with |hu|
@@ -36145,8 +36161,10 @@ borrowed from HI.  CR |i| is unexplained.  This verb is active in most languages
 \pcaso
 \ca
 \wo
-\othlgs Tunica: |-štahpu| ‘face’, |-štáhta| ‘whiskers’, |-štósu|
-‘eye’; cf. {tósu} ‘seed’ MRH
+\othlgs Tunica: |-štahpu| ‘face’ MRH
+\othlgs Tunica: |-štáhta| ‘whiskers’ MRH
+\othlgs Tunica: |-štósu| ‘eye’
+\othlgs Tunica: {tósu} ‘seed’ MRH
 \com DH nasalization is unexplained. The following SE languages exhibit
 forms that are not cognate but which share certain phonetic resemblances: BI
 |tûtcû´ⁿ, tûtcóⁿ, tcûtcû´ⁿ, ítcĭtcû´ⁿ| ‘the eyes’ (DS-282a), BI |tətco•ne|
@@ -37743,7 +37761,7 @@ have had |*r| instead of |*y|.
 \pcaso
 \ca
 \wo
-\othlgs PUA |*masa| ‘wing’ Miller #466
+\othlgs PUA |*masa| ‘wing’ PUA#466
 \com Cf. the various (game) bird names with {*(a)wą•-}. CR {íišušši}
 ‘plume’, which might seem to go here, should be compared with its HI cognate
 {í•tohta} ‘plume’ from the root {tohtE} ‘shake’. Neither belongs in
@@ -38624,7 +38642,9 @@ also.
 \caso Sp-9
 \ca_org į́•pi•ʔ ‘fire’ Sp-9
 \wo
-\othlgs PUA #63 Mn: |pita|; My: |béete|; Yq: |béete| ‘burn’ (Miller)
+\othlgs Mn: |pita| PUA#63
+\othlgs My: |béete| PUA#63 
+\othlgs Yq: |béete| ‘burn’ PUA#63
 \com The |Vʔ| sequences found in OP and BI represent the reflex of the long
 falling pitch characteristic of long accented vowels in many Siouan
 languages.  Extreme pitch drop results in creaky voice or phonetic |ʔ| at
@@ -40184,7 +40204,7 @@ correspond with BI |x|.  OF suggests possible PSI length.
 \othlgs PA |*o•čye•wa| ‘fly’ (Aubin)
 \othlgs Shawnee: |hoče| ‘fly’ Voegelin, 1937-40 p.445
 \othlgs Miami: |očia| (|aki| pl) ‘maggot, fly’ Voegelin, 1937-40, p.445.
-|očisa| ‘gnat’ (diminutive) Voegelin, 1937-40, p.445
+\othlgs Miami: |očisa| ‘gnat’ (diminutive) Voegelin, 1937-40, p.445
 \othlgs Kickapoo: |oocea| 12-05-89 fly’ Voorhis-92
 \com Cf. Shawnee {hoče} ‘fly’ (Voegelin, 1937-40 p.445) and N.B. Shawnee
 {#h-}. This makes a Shawnee-like Algonquian dialect, with its prothetic
@@ -41668,7 +41688,7 @@ nonetheless seem to be related.  On the CR form, cf. ‘bathe’.
 \caso FS (?)
 \ca_org ta•p ‘forehead’ FS (?)
 \wo
-\othlgs cf. Yuchi |da| LB
+\othlgs Yuchi |da| LB
 \com Cf. ‘face’. These roots are distinct in DA, but may have merged in
 other languages.
 
@@ -42272,8 +42292,7 @@ from geminates. OP {-i -} matches CH {-ú-} here. Neither form with
 \ca
 \wo
 \othlgs Yuchi: |kʔati| LB (|kʔa| ‘together’ + |ti| ‘name’-Ballards analysis)
-\othlgs Muskogean: Choctaw, Swanton and Byington 222b |kana| ‘friend,
-inalienable’. |ikhana| ‘know’.
+\othlgs Muskogean: Choctaw, Swanton and Byington 222b |kana| ‘friend, inalienable’. |ikhana| ‘know’.
 \othlgs Algonquian: |*niihkaana| ‘my friend’ Charles Callander 1962:121.
 Probably better |*n-iiθ-kan-a| ‘brother, fellow, etc.’ Shawnee should
 be checked.
@@ -45334,7 +45353,7 @@ instrumental prefixes to be clitics.
 \caso KS
 \ca_org ra ‘go’ KS
 \wo
-\othlgs Cf. Yuchi |da, ła| ‘go’ LB
+\othlgs Yuchi |da, ła| ‘go’ LB
 \com MA preserves the final |*-E| of the root only in some (not all) ablauted
 forms, like the one given, where the root appears as |ra•ha-|.  The root
 appears as |re•h-| in non-ablauted forms.  It seems likely that this root was
@@ -47002,7 +47021,7 @@ argue that the same reanalysis occurred in PDH.
 \pcaso
 \ca
 \wo
-\othlgs JEK: Cf. Cheyenne |moe|: ‘grass’ Aubin 1180.
+\othlgs Cheyenne |moe|: ‘grass’ Aubin 1180.
 \com Cf. ‘grass (4)’, ‘grass (3)’ which is much more widespread.  Cf. Cheyenne
 |moe•| ‘grass’ Aubin 1180.  If this were a borrowing from Algonquian the
 apparent discrepancy between apparent CH medial |ʔ| and the |h| found
@@ -48689,7 +48708,7 @@ HI has simply borrowed the term from MA.
 \pcaso
 \ca
 \wo
-\othlgs Cf. Yuchi: |tšhi, tšhe| LB
+\othlgs Yuchi: |tšhi, tšhe| LB
 \com The {-u-} in DA, KS, and OS presumably results from contact with the
 following labial.  Cf. ‘tail (2) > bird tail’, where the sporadic rounding before a
 labial is separately attested.  OF aspiration and the accentual and length
@@ -51829,7 +51848,7 @@ contamination.
 \caso KS
 \ca_org tαp ‘freeze’ KS.
 \wo
-\othlgs Cf. PUA #62a (Miller) |*na, *nai| ‘burn’ Cf. ‘burn’
+\othlgs PUA#62a |*na, *nai| ‘burn’ Cf. ‘burn’
 \com There seems to have been a good deal of morphological restructuring
 here. In DH, at least, this instrumental has fused with several verbs to
 form new stems that may themselves take other instrumental prefixes from the
@@ -53589,8 +53608,8 @@ the expected {ɣíǰe} has no obvious meaning while the actual form,
 \pcaso
 \ca
 \wo
-\othlgs JEK: Cf. Atakapa |hop| ‘hole’. Swadesh-19.  Chitimacha |hapt| ‘to bore’
-Swadesh-19.
+\othlgs Atakapa |hop| ‘hole’. Swadesh-19.
+\othlgs Chitimacha |hapt| ‘to bore’ Swadesh-19.
 \com Attestation is a bit scanty for an authoritative PSI reconstruction;
 the final vowel may be {*e}, and the {u/o} correspondence sets,
 although fairly common are not yet completely understood.
@@ -54312,8 +54331,8 @@ apparently homophonous with ‘cover (2)’, also q.v.  Homophony of ‘cover’
 \pcaso
 \ca
 \wo
-\othlgs JEK: Atakapa: |uk| ‘shell, oyster’ Swadesh-9, Chitimacha: |ʔukšču|
-‘oyster’. Goes with ‘horn (1)’.
+\othlgs Atakapa: |uk| ‘shell, oyster’ Swadesh-9
+\othlgs Chitimacha: |ʔukšču| ‘oyster’. Goes with ‘horn (1)’.
 \com The semantic link between ‘horn’ and ‘shell’ is through ‘spoon’. Since
 PSI {*htú•ki} ‘shell > spoon’ probably meant only ‘shell’ originally, the
 present form was probably ‘horn’ originally.
@@ -55144,7 +55163,7 @@ yielded length.
 \pcaso
 \ca
 \wo
-\othlgs PUA |*kuna| ‘husband’ Miller #504 Cf. ‘marry’.
+\othlgs PUA |*kuna| ‘husband’ PUA#504 Cf. ‘marry’.
 \com The apparent prefixes in PDA and PDH are unexplained.
 
 \lx husk, pull off (1), flay
@@ -65278,8 +65297,6 @@ Distribution of the Dakotan forms suggests that |wičhášta| is the older varia
 \io
 \ot
 \wi
-\wiso Gilmore 1919:87
-\wi
 \wioo wiisébu
 \wioo wiisebu
 \wioo wissephu
@@ -66285,6 +66302,8 @@ HI |wak-| is reciprocal.
 \com Ordinarily |n| in an oral environment, as here, in BI represents the
 reflex of an earlier cluster, often |*hr| or |*ʔr|.  There is insufficient
 information here to allow us to determine its function.
+\prv RR Another n in oral environment in BI that implies a former cluster?
+Some go back to *kr or *kR.
 
 \lx melt (2)
 \ps verb
@@ -76905,7 +76924,6 @@ replacement.
 \othlgs Choctaw |tákkonloši| ‘plum’  RR
 \othlgs Choctaw |tákkon| ‘peach’ RR
 \othlgs Tunica |téhkʔelu| MRH
-\othlgs Com stem for several fruits
 \othlgs Shawnee |tʔkana| ‘plum’ Pentland.
 \com In MA (a) nasalization is wanting and (b) vowel syncope in medial
 syllables seems irregular. The former suggests the word is a borrowing from
@@ -78397,7 +78415,6 @@ here.
 \wioo wu-
 \wioo wu-
 \wi_org wu-
-\wi
 \wicm 1s puu-, 2s šuwu-, 3s wu-
 \wi_org 1s puu-´, 2s šuwu-, 3s wu-´
 \pdh *pü-
@@ -83539,7 +83556,7 @@ based on ‘rock (1)’, q.v.
 \wioo waginą́
 \wioo waginą; wiginą
 \wime string; rope; n.
-\cm intertwine, Lk-8.1fb
+\wicm intertwine, Lk-8.1fb
 \wiso KM-3254
 \wi_org waginą́ ‘string; rope; n. (intertwine, Lk-8.1fb)’ KM-3254
 \wi
@@ -85550,9 +85567,6 @@ we should suspect contamination from this verb of an inherited noun.
 \ksme say
 \ksso RR
 \ks_org é•` ‘say’ RR
-\ks
-\kscm 1s ephé, 2s ešé, 3s ê•
-\ksso RR
 \os †é
 \osoo e
 \osme say
@@ -85587,28 +85601,16 @@ we should suspect contamination from this verb of an inherited noun.
 \bi_check source_confirmed
 \bisoo hedí, hĕ́di
 \bi_org †hé(di) “he, hedí, hĕ´di” ‘say it or that’ DS-189b
-\bi
-\bicm 1s ĕ´ṭûñḳédi, 2s ĕ´ṭiḳiyĕ´di, 3p ĕ´tu
-\bi_org 1s “ĕ´ṭûñḳédi”, 2s “ĕ´ṭiḳiyĕ´di”, 3p “ĕ´tu”
-\bi
-\bicm 1s nḳedí, 2s háyedi´, 3p hetú
-\bi_org 1s “nḳedí”, 2s “háyedi´”, 3p “hetú”
 \of †éhe
 \ofoo (l)éhe
 \ofme say
 \ofso DS-326a
 \of_org †éhe “(l)éhe” ‘say’ DS-326a
-\of
-\ofcm 1s béhe, 2s tcéhe, 3s lehé, 1p oⁿehé, 3p lehetú
-\of_org 1s “béhe”, 2s “tcéhe”, 3s “lehé”, 1p “oⁿehé”, 3p “lehetú”
 \tu †ha_hé•-
 \tuoo hahēwa
 \tume say
 \tuso H.
 \tu_org †ha_hé•- “hahēwa” ‘say’ H.
-\tu
-\tucm 1s hawahēwa, 2s hayihēwa, 1p hamañkhēwa; the final {-wa} is an aspect suffix
-\tu_org 1s “hawahēwa”, 2s “hayihēwa”, 1p “hamañkhēwa” (the final {-wa} is an aspect suffix) )
 \sp
 \pca
 \pcaso
@@ -105332,8 +105334,6 @@ also be from |ska|
 \ofoo nạ́ftạki
 \ofme tie
 \ofso DS-326b
-\bi_check source_confirmed
-\bisoo nạ́ftạki
 \of_org †nə́ftəki “nạ́ftạki” ‘tie’ DS-326b
 \tu
 \sp
@@ -127369,9 +127369,6 @@ WI |hį•-| and |wą•g-| may possibly be doublets, |hįį-| coming from |*wą
 \pseso
 \pbo
 \source
-\bi
-\bicm replaced by 1st inclusive prefix
-\bi_org (replaced by 1st inclusive prefix.)
 \of
 \ofoo ba-
 \of_org ba-
@@ -127460,14 +127457,10 @@ WI |hį•-| and |wą•g-| may possibly be doublets, |hįį-| coming from |*wą
 \op_org p/__ p, t, k with assimilation to pp, tt, (kk or pp)
 \pn
 \po
-\ks (as in Omaha-Ponca)
-\ks_org as in OP
 \os
 \osoo h /__ p, t, k
 \oscm h /__ p, t, k with assimilation to hp, ht, hk
 \os_org h /__ p, t, k with assimilation to hp, ht, (hk or hp)
-\qucm as in OP
-\qu_org as in OP
 \pse *wa- (restored ?)
 \pseso
 \pbo
@@ -127602,8 +127595,6 @@ Perhaps the sibilant LA |mįš| and TU |misą́i| ‘emphatic’ forms belong to
 \sv
 \pwc *hį́•- (?)
 \pwcso
-\chcm cf. hį- (?)
-\ch_org cf. hį- (?)
 \mi
 \mo
 \io
